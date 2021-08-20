@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<!--
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <http://unlicense.org/>
+-->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>LearningSoftware</title>
+    <style type="text/css">
+      body {
+        font-family: sans-serif;
+        font-size: 2.5em;
+      }
+      .btn_learn {
+        display: inline-block;
+        margin: 6px;
+        font-size: inherit;
+        line-height: 1.42;
+        padding: 0.1em 1.3em;
+        font-weight: normal;
+        border-width: 2px;
+        border-style: solid;
+        background: transparent;
+        border-radius: 1.46em;
+        cursor: pointer;
+        user-select: none;
+        vertical-align: bottom;
+        position: relative;
+        border-style: solid;
+        overflow: hidden;
+        transition: background-color 0.3s, color 0.3s;
+        color: #0B44EF;
+        border-color: #0B44EF;
+        font-size: 2em;
+      }
+      .btn_learn:hover {
+        color: #E6EAEF;
+        background-color: #0B44EF;
+      }
+      .btn_learn:active {
+        background-color: #0a40e0;
+      }
+      .btn_learn:active::after {
+        background-color: #0a40e0;
+      }
+      .btn_learn::after {
+        background-color: #0B44EF;
+      }
+      .btn_packages {
+        display: inline-block;
+        margin: 6px;
+        font-size: inherit;
+        line-height: 1.42;
+        padding: 0.2em 0.4em;
+        font-weight: normal;
+        border-width: 2px;
+        border-style: solid;
+        background: transparent;
+        border-radius: 1.46em;
+        cursor: pointer;
+        user-select: none;
+        vertical-align: bottom;
+        position: relative;
+        border-style: solid;
+        overflow: hidden;
+        transition: background-color 0.3s, color 0.3s;
+        color: #0B44EF;
+        border-color: #0B44EF;
+        font-size: 0.5em;
+      }
+      .btn_packages:hover {
+        color: #E6EAEF;
+        background-color: #0B44EF;
+      }
+      .btn_packages:active {
+        background-color: #0a40e0;
+      }
+      .btn_packages:active::after {
+        background-color: #0a40e0;
+      }
+      .btn_packages::after {
+        background-color: #0B44EF;
+      }
+      .btn_home {
+        display: inline-block;
+        margin: 6px;
+        font-size: inherit;
+        line-height: 1.42;
+        padding: 0.2em 0.4em;
+        font-weight: normal;
+        border-width: 2px;
+        border-style: solid;
+        background: transparent;
+        border-radius: 1.46em;
+        cursor: pointer;
+        user-select: none;
+        vertical-align: bottom;
+        position: relative;
+        border-style: solid;
+        overflow: hidden;
+        transition: background-color 0.3s, color 0.3s;
+        color: #0B44EF;
+        border-color: #0B44EF;
+        font-size: 0.5em;
+      }
+      .btn_home:hover {
+        color: #E6EAEF;
+        background-color: #0B44EF;
+      }
+      .btn_home:active {
+        background-color: #0a40e0;
+      }
+      .btn_home:active::after {
+        background-color: #0a40e0;
+      }
+      .btn_home::after {
+        background-color: #0B44EF;
+      }
+      .btn_exercise {
+        display: inline-block;
+        margin: 6px;
+        font-size: inherit;
+        line-height: 1.42;
+        padding: 0.2em 0.4em;
+        font-weight: normal;
+        border-width: 2px;
+        border-style: solid;
+        background: transparent;
+        border-radius: 1.46em;
+        cursor: pointer;
+        user-select: none;
+        vertical-align: bottom;
+        position: relative;
+        border-style: solid;
+        overflow: hidden;
+        transition: background-color 0.3s, color 0.3s;
+        color: #0B44EF;
+        border-color: #0B44EF;
+        font-size: 0.5em;
+      }
+      .btn_exercise:hover {
+        color: #E6EAEF;
+        background-color: #0B44EF;
+      }
+      .btn_exercise:active {
+        background-color: #0a40e0;
+      }
+      .btn_exercise:active::after {
+        background-color: #0a40e0;
+      }
+      .btn_exercise::after {
+        background-color: #0B44EF;
+      }
+      #correct_button {
+        display: inline-block;
+        margin: 6px;
+        font-size: inherit;
+        line-height: 1.42;
+        padding: 0.4em 0.8em;
+        font-weight: normal;
+        border-width: 2px;
+        border-style: solid;
+        background: transparent;
+        border-radius: 1.46em;
+        cursor: pointer;
+        user-select: none;
+        vertical-align: bottom;
+        position: relative;
+        border-style: solid;
+        overflow: hidden;
+        transition: background-color 0.3s, color 0.3s;
+        color: #52C11F;
+        border-color: #52C11F;
+        font-size: 1em;
+      }
+      #correct_button:hover {
+        color: #E6EAEF;
+        background-color: #52C11F;
+      }
+      #correct_button:active {
+        background-color: #4cb41d;
+      }
+      #correct_button:active::after {
+        background-color: #4cb41d;
+      }
+      #correct_button::after {
+        background-color: #52C11F;
+      }
+      #wrong_button {
+        display: inline-block;
+        margin: 6px;
+        font-size: inherit;
+        line-height: 1.42;
+        padding: 0.4em 0.8em;
+        font-weight: normal;
+        border-width: 2px;
+        border-style: solid;
+        background: transparent;
+        border-radius: 1.46em;
+        cursor: pointer;
+        user-select: none;
+        vertical-align: bottom;
+        position: relative;
+        border-style: solid;
+        overflow: hidden;
+        transition: background-color 0.3s, color 0.3s;
+        color: #FF006A;
+        border-color: #FF006A;
+        font-size: 1em;
+      }
+      #wrong_button:hover {
+        color: #E6EAEF;
+        background-color: #FF006A;
+      }
+      #wrong_button:active {
+        background-color: #f00064;
+      }
+      #wrong_button:active::after {
+        background-color: #f00064;
+      }
+      #wrong_button::after {
+        background-color: #FF006A;
+      }
+      .cb {
+        width: 2em;
+        height: 2em;
+      }
+      .mark_display {
+        font-size: 0.5em;
+      }
+      .progress_display {
+        font-size: 0.5em;
+      }
+      #enter_notice {
+        font-size: 0.5em;
+      }
+      #text_input_field {
+        height: 2em;
+        width: 24em;
+        font-size: 0.5em;
+      }
+    </style>
+  </head>
+  <script type="text/javascript">
+    /* ## Globals ## */
+    var current_exercise = null
+    var total_answered_exercises = 0
+    var list_answered_exercises = []
+    var total_correct_exercises = 0
+    var current_input = ''
+    var packages = []
+
+    /* # Packages # */
+    function reset_packages(){
+      packages = [
+        {
+          'name': 'Test',
+          'id': 0,
+          'enabled': false,
+          'size': 3,
+          'content': [
+            {
+              "id": [0, 0],
+              "includes-image": false,
+              "includes-answer-image": false,
+              "question": "1 + 1 = ?",
+              "links": [],
+              "solution": "2",
+              "solutions": ["2"],
+              "tolerance": 1,
+              "difficulty": 1,
+              "frequency": 1.0
+            },
+            {
+              "id": [0, 1],
+              "includes-image": false,
+              "includes-answer-image": false,
+              "question": "1 + 2 = ?",
+              "links": [],
+              "solution": "3",
+              "solutions": ["3"],
+              "tolerance": 1,
+              "difficulty": 1,
+              "frequency": 1.0
+            },
+            {
+              "id": [0, 2],
+              "includes-image": false,
+              "includes-answer-image": false,
+              "question": "2 + 2 = ?",
+              "links": [],
+              "solution": "4",
+              "solutions": ["4"],
+              "tolerance": 1,
+              "difficulty": 1,
+              "frequency": 1.0
+            }
+          ]
+        }
+      ]
+    }
+    reset_packages()
+    /* ### API ### */
+    function list_packages(){
+      var result = []
+      for(let i in packages){
+        result.push(packages[i].name)
+      }
+      return result
+    }
+    function list_status_packages() {
+      var result = []
+      for(let i in packages){
+        result.push(packages[i].enabled)
+      }
+      return result
+    }
+    function list_enabled_packages() {
+      var result = []
+      for(let i = 0;i < packages.length; i++){
+        if(packages[i].enabled){
+          result.push(i)
+        }
+      }
+      return result
+    }
+    function total_frenquency_enabled() {
+      var result = 0.0
+      for(let i = 0;i < packages.length; i++){
+        if(packages[i].enabled){
+          for(let j = 0; j < packages[i].content.length; j++){
+            result += packages[i].content[j].frequency
+          }
+        }
+      }
+      return result
+    }
+    function total_frenquency_index(n) {
+      var sum = 0.0
+      for(let i = 0;i < packages.length; i++){
+        if(packages[i].enabled){
+          for(let j = 0; j < packages[i].content.length; j++){
+            sum += packages[i].content[j].frequency
+            if(sum >= n){
+              return [i, j]
+            }
+          }
+        }
+      }
+    }
+    function randint(min, max){
+      return Math.floor(Math.random() * (max - min + 1) + min)
+    }
+    function randfloat(min, max){
+      return Math.random() * (max - min) + min
+    }
+    function round(n, precision){
+      return Math.round(n * Math.pow(10, precision)) / Math.pow(10, precision)
+    }
+    function get_exercise() {
+      if(list_enabled_packages().length > 0){
+        total_frenquency = total_frenquency_enabled()
+        coords = total_frenquency_index(randfloat(0, total_frenquency))
+        return packages[coords[0]].content[coords[1]]
+      } else{
+        console.error('no enabled packages')
+        return null
+      }
+    }
+    function disable_all_packages() {
+      for(let i in packages){
+        packages[i].enabled = false
+      }
+    }
+    function enable_all_packages() {
+      for(let i in packages){
+        packages[i].enabled = true
+      }
+    }
+    function total_enabled_exercises() {
+      var result = 0
+      for(let i in packages){
+        if(packages[i].enabled){
+          for(let j in packages[i].content){
+            result++
+          }
+        }
+      }
+      return result
+    }
+    function calculate_mark() {
+      if(total_answered_exercises == 0){
+        return 0
+      } else {
+        return round(((total_correct_exercises / total_answered_exercises) * 5) + 1, 1)
+      }
+    }
+    function calculate_progress() {
+      if(total_enabled_exercises() > 0){
+        var percentage = list_answered_exercises.length / total_enabled_exercises() * 100
+        var percentage2 = total_answered_exercises / total_enabled_exercises() * 100
+        return Math.round(percentage).toString() + '%  | ' + Math.round(percentage2).toString() + '%'
+      }
+    }
+    function increase_frequency(id, constant) {
+      packages[id[0]].content[id[1]].frequency = packages[id[0]].content[id[1]].frequency * constant
+    }
+    function decrease_frequency(id, constant) {
+      packages[id[0]].content[id[1]].frequency = packages[id[0]].content[id[1]].frequency / constant
+    }
+    /* ### Interface ### */
+    /* ## Window Manager ## */
+    function switch_window(new_front){
+      all_windows = ['div_menu', 'div_exercise', 'div_result'];
+      for(let i in all_windows){
+        document.getElementById(all_windows[i]).style.display='none';
+      }
+      document.getElementById(new_front).style.display='block';
+    }
+    /* ## Other ## */
+    function create_list_links(){
+      if(current_exercise != null){
+        var result = ''
+        if(current_exercise.links.length > 0){
+          for(let i in current_exercise.links){
+            result += '<li><p><a href="' + current_exercise.links[i] + '">' + current_exercise.links[i] + '</a></p></li>'
+          }
+        }
+        return result
+      }
+    }
+    function next_exercise() {
+      switch_window('div_exercise')
+      current_exercise = get_exercise()
+      if(current_exercise != null){
+        document.getElementById('mark_display_exercise').innerHTML = '~Mark: ' + calculate_mark().toString()
+        document.getElementById('progress_display_exercise').innerHTML = calculate_progress()
+        document.getElementById('question').innerHTML = current_exercise.question
+        document.getElementById('links').innerHTML = create_list_links()
+        document.getElementById('text_input_field').value = ""
+        current_input = ''
+      } else {
+        switch_window('div_menu')
+      }
+    }
+    function show_result() {
+      switch_window('div_result')
+      if(current_exercise != null){
+        document.getElementById('mark_display_result').innerHTML = '~Mark: ' + calculate_mark().toString()
+        document.getElementById('progress_display_result').innerHTML = calculate_progress()
+        document.getElementById('question_result').innerHTML = current_exercise.question
+        document.getElementById('solution').innerHTML = current_exercise.solution
+        document.getElementById('entered_solution').innerHTML = current_input
+      } else {
+        switch_window(div_menu)
+      }
+    }
+    function create_list_packages() {
+      var result = ''
+      var packages_list = list_packages()
+      for(let i in packages_list){
+        if(packages[i].enabled){
+          result += '<li><input type="checkbox" id="package_checkbox_' + i.toString() + '" checked="true" onchange="reload_packages()" class="cb"><label for="package_checkbox_' + i.toString() + '">' + packages_list[i] + '</label></li>'
+        } else {
+          result += '<li><input type="checkbox" id="package_checkbox_' + i.toString() + '" value="false" onchange="reload_packages()" class="cb"><label for="package_checkbox_' + i.toString() + '">' + packages_list[i] + '</label></li>'
+        }
+      }
+      return result
+    }
+    function reload_packages() {
+      for(let i in list_packages()){
+        packages[i].enabled = document.getElementById('package_checkbox_' + i.toString()).checked
+      }
+      current_exercise = null
+      total_answered_exercises = 0
+      list_answered_exercises = []
+      total_correct_exercises = 0
+      current_input = ''
+    }
+    function show_menu() {
+      switch_window('div_menu')
+      document.getElementById('packages_list').innerHTML = create_list_packages()
+    }
+    function monitor_answered_exercises(exercise_to_add){
+      var x = true
+      for(let i in list_answered_exercises){
+        if(exercise_to_add == list_answered_exercises[i]){
+          x = false
+        }
+      }
+      if(x){
+        list_answered_exercises.push(exercise_to_add)
+      }
+    }
+    /* ## Buttons ## */
+    function go_home() {
+      current_exercise = null;
+      show_menu()
+    }
+    function check_input(){
+      current_input = document.getElementById('text_input_field').value
+      show_result()
+    }
+    function skip_exercise() {
+      show_result()
+    }
+    function set_correct() {
+      total_answered_exercises++
+      total_correct_exercises++
+      monitor_answered_exercises(current_exercise.id)
+      decrease_frequency(current_exercise.id, 2)
+      next_exercise()
+    }
+    function set_wrong() {
+      total_answered_exercises++
+      increase_frequency(current_exercise.id, 2)
+      next_exercise()
+    }
+    function start_learning(){
+      if(list_enabled_packages().length > 0){
+        next_exercise()
+      }
+    }
+    function enable_all_packages_pressed() {
+      enable_all_packages()
+      show_menu()
+    }
+    function disable_all_packages_pressed() {
+      disable_all_packages()
+      show_menu()
+    }
+    function check_enter() {
+      return null
+    }
+  </script>
+  <body>
+    <div id='div_menu'>
+      <input type="button" value="Learn" onclick="start_learning()" class="btn_learn">
+      <br>
+      <input type="button" value="Enable all packages" onclick="enable_all_packages_pressed()" class="btn_packages">
+      <input type="button" value="Disable all packages" onclick="disable_all_packages_pressed()" class="btn_packages">
+      <br>
+      <p id="number_enabled_display"></p>
+      <p id="packages_notice">Avaible packages:</p>
+      <ul id="packages_list">
+        <li><input type="checkbox" id="package_checkbox_0" value="false" onchange="reload_packages()" class="cb"><label for="package_checkbox_0">Test</label></li>
+      </ul>
+    </div>
+    <div id='div_exercise' style="display: none">
+      <input type="button" value="Home" onclick="go_home()" id='home_button_exercise' class="btn_home">
+      <p class="mark_display" id="mark_display_exercise"></p>
+      <p class="progress_display" id="progress_display_exercise"></p>
+      <p id="question"></p>
+      <br>
+      <ol id="links">
+
+      </ol>
+      <br>
+      <p id="enter_notice">Enter your answer below:</p>
+      <input type="text" value="" id='text_input_field' onchange="check_enter()">
+      <input type="button" value="Check input" id='check_input_button' onclick="check_input()" class="btn_exercise">
+      <input type="button" value="Skip exercise" id='skip_exercise_button' onclick="skip_exercise()" class="btn_exercise">
+    </div>
+    <div id='div_result' style="display: none">
+      <input type="button" value="Home" onclick="go_home()" id='home_button_result' class="btn_home">
+      <p class="mark_display" id="mark_display_result"></p>
+      <p class="progress_display" id="progress_display_result"></p>
+      <p id="question_result"></p>
+      <br>
+      <p id="solution_notice">Correct solution:</p>
+      <p id="solution"></p>
+      <br>
+      <p id="entered_notice">You've entered:</p>
+      <p id="entered_solution"></p>
+      <br>
+      <input type="button" value="Correct" id='correct_button' onclick="set_correct()">
+      <input type="button" value="Wrong" id='wrong_button' onclick="set_wrong()">
+    </div>
+  </body>
+</html>
