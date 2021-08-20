@@ -1,0 +1,46 @@
+{
+  "name": "Test",
+  "id": "__iD__",
+  "enabled": false,
+  "size": 3,
+  "author": "Martin Merkli",
+  "copyright": "Public domain",
+  "content": [
+    {
+      "id": ["__iD__", 0],
+      "includes-image": false,
+      "includes-answer-image": false,
+      "question": "1 + 1 = ?",
+      "links": [],
+      "solution": "2",
+      "solutions": ["2"],
+      "tolerance": 1,
+      "difficulty": 1,
+      "frequency": 1.0
+    },
+    {
+      "id": ["__iD__", 1],
+      "includes-image": false,
+      "includes-answer-image": false,
+      "question": "1 + 2 = ?",
+      "links": [],
+      "solution": "3",
+      "solutions": ["3"],
+      "tolerance": 1,
+      "difficulty": 1,
+      "frequency": 1.0
+    },
+    {
+      "id": ["__iD__", 2],
+      "includes-image": false,
+      "includes-answer-image": false,
+      "question": "2 + 2 = ?",
+      "links": [],
+      "solution": "4",
+      "solutions": ["4"],
+      "tolerance": 1,
+      "difficulty": 1,
+      "frequency": 1.0
+    }
+  ]
+}
