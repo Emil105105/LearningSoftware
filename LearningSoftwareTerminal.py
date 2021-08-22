@@ -163,6 +163,9 @@ def get_exercise(packages):
 
 def save_packages(packages):
     for i in range(len(packages)):
+        packages[i]['id'] = "__iD__"
+        for j in range(len(packages[i]['content'])):
+            packages[i]['content'][j]['id'][0] = "__iD__"
         with open(relative_file('Packages/' + packages[i]["name"]) + '.json', 'w') as f:
             f.write(json.dumps(packages[i], indent=4))
 
