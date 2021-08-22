@@ -515,10 +515,25 @@ def interpreter(current_input, txt, mark_system, packages):
         return 'continue', txt, mark_system, packages
 
 def check_answer(current_exercise, current_input):
-    if current_input in current_exercise["solutions"]:
+    if current_exercise['tolerance'] in [0, 1]:
+        if current_input in current_exercise["solutions"]:
+            return True
+        else:
+            return False
+    elif current_exercise['tolerance'] in [2]:
+        if current_input in current_exercise["solutions"]:
+            return True
+        else:
+            for i in range(len(current_exercise['solutions'])):
+                if current_input.lower().replace(' ', '') == current_exercise['solutions'][i].lower().replace(' ', ''):
+                    return True
+    elif current_exercise['tolerance'] in [3]:
         return True
     else:
-        return False
+        if current_input in current_exercise["solutions"]:
+            return True
+        else:
+            return False
 
 def set_correct(packages, current_exercise, total_answered_exercises, current_input, total_correct_exercises, list_answered_exercises):
     total_answered_exercises += 1
