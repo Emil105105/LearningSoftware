@@ -1,0 +1,2134 @@
+{
+    "name": "examen ocotbre voca",
+    "id": "__iD__",
+    "enabled": false,
+    "author": "Martin Merkli",
+    "copyright": "Public domain",
+    "content": [
+        {
+            "id": [
+                "__iD__",
+                0
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine (Land)Strasse",
+            "links": [],
+            "solution": " une route",
+            "solutions": [
+                " une route"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                1
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "auf dem Weg nach",
+            "links": [],
+            "solution": " en route pour",
+            "solutions": [
+                " en route pour"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                2
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "das Elsass",
+            "links": [],
+            "solution": " l'Alsace",
+            "solutions": [
+                " l'Alsace"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                3
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Kathedrale",
+            "links": [],
+            "solution": " une cath\u00e9drale",
+            "solutions": [
+                " une cath\u00e9drale"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                4
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Vertreter/eine Vertreterin",
+            "links": [],
+            "solution": " un repr\u00e9sentant/une repr\u00e9sentante",
+            "solutions": [
+                " un repr\u00e9sentant/une repr\u00e9sentante"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                5
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Land",
+            "links": [],
+            "solution": " un pays",
+            "solutions": [
+                " un pays"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                6
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "europ\u00e4isch",
+            "links": [],
+            "solution": " europ\u00e9en/europ\u00e9enne",
+            "solutions": [
+                " europ\u00e9en/europ\u00e9enne"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                7
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich versammeln",
+            "links": [],
+            "solution": " se r\u00e9unir",
+            "solutions": [
+                " se r\u00e9unir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                8
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Fernsehsender",
+            "links": [],
+            "solution": " une cha\u00eene de t\u00e9l\u00e9vision",
+            "solutions": [
+                " une cha\u00eene de t\u00e9l\u00e9vision"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                9
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein B\u00fcro/B\u00fcros",
+            "links": [],
+            "solution": " un bureau/des bureaux",
+            "solutions": [
+                " un bureau/des bureaux"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                10
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Programm",
+            "links": [],
+            "solution": " un programme",
+            "solutions": [
+                " un programme"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                11
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Grenze",
+            "links": [],
+            "solution": " une fronti\u00e8re",
+            "solutions": [
+                " une fronti\u00e8re"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                12
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "Deutschland",
+            "links": [],
+            "solution": " l'Allemagne",
+            "solutions": [
+                " l'Allemagne"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                13
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Rolle",
+            "links": [],
+            "solution": " un r\u00f4le",
+            "solutions": [
+                " un r\u00f4le"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                14
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "els\u00e4ssisch",
+            "links": [],
+            "solution": " alsacien/alsacienne",
+            "solutions": [
+                " alsacien/alsacienne"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                15
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "das Sauerkraut",
+            "links": [],
+            "solution": " la choucroute",
+            "solutions": [
+                " la choucroute"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                16
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "das Els\u00e4ssische",
+            "links": [],
+            "solution": " l'alsacien",
+            "solutions": [
+                " l'alsacien"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                17
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Stadt",
+            "links": [],
+            "solution": " une ville",
+            "solutions": [
+                " une ville"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                18
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich befinden",
+            "links": [],
+            "solution": " se trouver",
+            "solutions": [
+                " se trouver"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                19
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "der Norden",
+            "links": [],
+            "solution": " le nord",
+            "solutions": [
+                " le nord"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                20
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "n\u00f6rdlich von",
+            "links": [],
+            "solution": " au nord de",
+            "solutions": [
+                " au nord de"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                21
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "der S\u00fcden",
+            "links": [],
+            "solution": " le sud",
+            "solutions": [
+                " le sud"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                22
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "s\u00fcdlich von",
+            "links": [],
+            "solution": " au sud de",
+            "solutions": [
+                " au sud de"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                23
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "der Osten",
+            "links": [],
+            "solution": " l'est",
+            "solutions": [
+                " l'est"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                24
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "\u00f6stlich von",
+            "links": [],
+            "solution": " \u00e0 l'est de",
+            "solutions": [
+                " \u00e0 l'est de"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                25
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "der Westen",
+            "links": [],
+            "solution": " l'ouest",
+            "solutions": [
+                " l'ouest"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                26
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "westlich von",
+            "links": [],
+            "solution": " \u00e0 l'ouest de",
+            "solutions": [
+                " \u00e0 l'ouest de"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                27
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "an der Grenze liegen zu",
+            "links": [],
+            "solution": " \u00eatre \u00e0 la fronti\u00e8re avec",
+            "solutions": [
+                " \u00eatre \u00e0 la fronti\u00e8re avec"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                28
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "am Rande/Ufer von etw",
+            "links": [],
+            "solution": " au bord de qc",
+            "solutions": [
+                " au bord de qc"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                29
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "die zehnte Klasse(die erste Klasse auf dem Lyc\u00e9e)",
+            "links": [],
+            "solution": " la seconde",
+            "solutions": [
+                " la seconde"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                30
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Anfang",
+            "links": [],
+            "solution": " un d\u00e9but",
+            "solutions": [
+                " un d\u00e9but"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                31
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "am Anfang (von)",
+            "links": [],
+            "solution": " au d\u00e9but (de)",
+            "solutions": [
+                " au d\u00e9but (de)"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                32
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "die Abfahrt/der Aufbruch",
+            "links": [],
+            "solution": " le d\u00e9part",
+            "solutions": [
+                " le d\u00e9part"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                33
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "die Ankunft",
+            "links": [],
+            "solution": " l'arriv\u00e9e",
+            "solutions": [
+                " l'arriv\u00e9e"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                34
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Besuch/eine Besichtigung",
+            "links": [],
+            "solution": " une visite",
+            "solutions": [
+                " une visite"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                35
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine F\u00fchrung",
+            "links": [],
+            "solution": " une visite guid\u00e9e",
+            "solutions": [
+                " une visite guid\u00e9e"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                36
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Entdeckung",
+            "links": [],
+            "solution": " une d\u00e9couverte",
+            "solutions": [
+                " une d\u00e9couverte"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                37
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Spiel/Spiele",
+            "links": [],
+            "solution": " un jeu/des jeux",
+            "solutions": [
+                " un jeu/des jeux"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                38
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Schnitzeljagd",
+            "links": [],
+            "solution": " un jeu de piste",
+            "solutions": [
+                " un jeu de piste"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                39
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "frei",
+            "links": [],
+            "solution": " libre",
+            "solutions": [
+                " libre"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                40
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "die Freizeit",
+            "links": [],
+            "solution": " le temps libre",
+            "solutions": [
+                " le temps libre"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                41
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Jugendherberge",
+            "links": [],
+            "solution": " une auberge de jeunesse",
+            "solutions": [
+                " une auberge de jeunesse"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                42
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Begegnung/ein Treffen",
+            "links": [],
+            "solution": " une rencontre",
+            "solutions": [
+                " une rencontre"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                43
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Redakteur/eine Redakteurin",
+            "links": [],
+            "solution": " un r\u00e9dacteur/une r\u00e9dactrice",
+            "solutions": [
+                " un r\u00e9dacteur/une r\u00e9dactrice"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                44
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Flammkuchen",
+            "links": [],
+            "solution": " une tarte flamb\u00e9e",
+            "solutions": [
+                " une tarte flamb\u00e9e"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                45
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Unterbringung",
+            "links": [],
+            "solution": " un h\u00e9bergement",
+            "solutions": [
+                " un h\u00e9bergement"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                46
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "Frankreich",
+            "links": [],
+            "solution": " la France",
+            "solutions": [
+                " la France"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                47
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "super",
+            "links": [],
+            "solution": " top",
+            "solutions": [
+                " top"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                48
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Wahnsinnsprogramm",
+            "links": [],
+            "solution": " un programme de ouf",
+            "solutions": [
+                " un programme de ouf"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                49
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kaputt(ugs.)/fertig(ugs.)",
+            "links": [],
+            "solution": " crev\u00e9/crev\u00e9e",
+            "solutions": [
+                " crev\u00e9/crev\u00e9e"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                50
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "die Nacht",
+            "links": [],
+            "solution": " la nuit",
+            "solutions": [
+                " la nuit"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                51
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "etw/jdn schicken in/zu/nach",
+            "links": [],
+            "solution": " envoyer qc/qn \u00e0",
+            "solutions": [
+                " envoyer qc/qn \u00e0"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                52
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich etw vorstellen",
+            "links": [],
+            "solution": " imaginer qc",
+            "solutions": [
+                " imaginer qc"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                53
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Ver\u00fcckter/eine Ver\u00fcckte",
+            "links": [],
+            "solution": " un fou/une folle",
+            "solutions": [
+                " un fou/une folle"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                54
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "Unsinn machen",
+            "links": [],
+            "solution": " faire le fou",
+            "solutions": [
+                " faire le fou"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                55
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "zuerst",
+            "links": [],
+            "solution": " d'abord",
+            "solutions": [
+                " d'abord"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                56
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Stadtzentrum",
+            "links": [],
+            "solution": " un centre-ville",
+            "solutions": [
+                " un centre-ville"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                57
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "danach/anschliessend",
+            "links": [],
+            "solution": " ensuite",
+            "solutions": [
+                " ensuite"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                58
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ganz (+Nomen)",
+            "links": [],
+            "solution": " tout/toute",
+            "solutions": [
+                " tout/toute"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                59
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "alle (+Nomen)/die ganzen",
+            "links": [],
+            "solution": " tous/toutes",
+            "solutions": [
+                " tous/toutes"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                60
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "interessant",
+            "links": [],
+            "solution": " int\u00e9ressant/int\u00e9ressante",
+            "solutions": [
+                " int\u00e9ressant/int\u00e9ressante"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                61
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "super/genial",
+            "links": [],
+            "solution": " g\u00e9nial/g\u00e9niale",
+            "solutions": [
+                " g\u00e9nial/g\u00e9niale"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                62
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "jdm vorschlagen etw zu tun",
+            "links": [],
+            "solution": " proposer \u00e0 qn de faire qc",
+            "solutions": [
+                " proposer \u00e0 qn de faire qc"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                63
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "oben/nach oben",
+            "links": [],
+            "solution": " en haut",
+            "solutions": [
+                " en haut"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                64
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "Achtung!/Vorsicht!",
+            "links": [],
+            "solution": " Attention!",
+            "solutions": [
+                " Attention!"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                65
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Stufe",
+            "links": [],
+            "solution": " une marche",
+            "solutions": [
+                " une marche"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                66
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "Keine Sorge!/Mach dir keine Sorgen!",
+            "links": [],
+            "solution": " T'inqui\u00e8te",
+            "solutions": [
+                " T'inqui\u00e8te"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                67
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Aufzug/ein Fahrstuhl",
+            "links": [],
+            "solution": " un asceneur",
+            "solutions": [
+                " un asceneur"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                68
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "Uff!",
+            "links": [],
+            "solution": " Ouf!",
+            "solutions": [
+                " Ouf!"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                69
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "die ganze Zeit",
+            "links": [],
+            "solution": " tout le temps",
+            "solutions": [
+                " tout le temps"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                70
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich langweilen",
+            "links": [],
+            "solution": " s'ennuyer",
+            "solutions": [
+                " s'ennuyer"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                71
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "anstrengend",
+            "links": [],
+            "solution": " fatigant/fatigante",
+            "solutions": [
+                " fatigant/fatigante"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                72
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "anfangen etw zu tun",
+            "links": [],
+            "solution": " commencer \u00e0 faire qc",
+            "solutions": [
+                " commencer \u00e0 faire qc"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                73
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "so tun, als ob",
+            "links": [],
+            "solution": " faire semblant (de faire qc)",
+            "solutions": [
+                " faire semblant (de faire qc)"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                74
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gleicher Meinung sein",
+            "links": [],
+            "solution": " \u00eatre du m\u00eame avis",
+            "solutions": [
+                " \u00eatre du m\u00eame avis"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                75
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "da/weil",
+            "links": [],
+            "solution": " comme",
+            "solutions": [
+                " comme"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                76
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Br\u00fccke",
+            "links": [],
+            "solution": " un pont",
+            "solutions": [
+                " un pont"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                77
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "etw austeilen/verteilen",
+            "links": [],
+            "solution": " distribuer qc",
+            "solutions": [
+                " distribuer qc"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                78
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ausserdem",
+            "links": [],
+            "solution": " en plus",
+            "solutions": [
+                " en plus"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                79
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "die Grosseltern",
+            "links": [],
+            "solution": " les grands-parents",
+            "solutions": [
+                " les grands-parents"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                80
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "etw wie seine Westentasche kennen",
+            "links": [],
+            "solution": " conna\u00eetre qc comme sa poche",
+            "solutions": [
+                " conna\u00eetre qc comme sa poche"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                81
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "Geschafft!/Es ist soweit!",
+            "links": [],
+            "solution": " \u00c7a y est!",
+            "solutions": [
+                " \u00c7a y est!"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                82
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "bei/in der N\u00e4he von",
+            "links": [],
+            "solution": " pr\u00e8s de",
+            "solutions": [
+                " pr\u00e8s de"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                83
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Wand/eine Mauer",
+            "links": [],
+            "solution": " un mur",
+            "solutions": [
+                " un mur"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                84
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Europ\u00e4er/ eine Europ\u00e4erin",
+            "links": [],
+            "solution": " un Europ\u00e9en/une Europ\u00e9enne",
+            "solutions": [
+                " un Europ\u00e9en/une Europ\u00e9enne"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                85
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Institution",
+            "links": [],
+            "solution": " une institution",
+            "solutions": [
+                " une institution"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                86
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "spannend/fesselnd",
+            "links": [],
+            "solution": " passionnant/passionnante",
+            "solutions": [
+                " passionnant/passionnante"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                87
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "Oma/Omi",
+            "links": [],
+            "solution": " mamie",
+            "solutions": [
+                " mamie"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                88
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "die Liebe",
+            "links": [],
+            "solution": " l'amour",
+            "solutions": [
+                " l'amour"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                89
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gew\u00f6hnlich",
+            "links": [],
+            "solution": " d'habitude",
+            "solutions": [
+                " d'habitude"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                90
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ziemlich",
+            "links": [],
+            "solution": " assez",
+            "solutions": [
+                " assez"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                91
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "hoffen",
+            "links": [],
+            "solution": " esp\u00e9rer",
+            "solutions": [
+                " esp\u00e9rer"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                92
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich beeilen",
+            "links": [],
+            "solution": " se d\u00e9p\u00eacher",
+            "solutions": [
+                " se d\u00e9p\u00eacher"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                93
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein F\u00f6hn/ein Haartrockner",
+            "links": [],
+            "solution": " un s\u00e8che-cheveux",
+            "solutions": [
+                " un s\u00e8che-cheveux"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                94
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "anhalten/Halt machen",
+            "links": [],
+            "solution": " s'arr\u00eater",
+            "solutions": [
+                " s'arr\u00eater"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                95
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "zu etw geh\u00f6ren/ ein Teil von etw sein",
+            "links": [],
+            "solution": " faire partie de qc",
+            "solutions": [
+                " faire partie de qc"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                96
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Verteidigung",
+            "links": [],
+            "solution": " une d\u00e9fense",
+            "solutions": [
+                " une d\u00e9fense"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                97
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "der Zweite Weltkrieg",
+            "links": [],
+            "solution": " la Seconde Guerre mondiale",
+            "solutions": [
+                " la Seconde Guerre mondiale"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                98
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Tunnel",
+            "links": [],
+            "solution": " un tunnel",
+            "solutions": [
+                " un tunnel"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                99
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "die Wirklichkeit/die Realit\u00e4t",
+            "links": [],
+            "solution": " la r\u00e9alit\u00e9",
+            "solutions": [
+                " la r\u00e9alit\u00e9"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                100
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "verschieden/anders/unterschiedlich",
+            "links": [],
+            "solution": " diff\u00e9rent/diff\u00e9rente",
+            "solutions": [
+                " diff\u00e9rent/diff\u00e9rente"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                101
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Kilometer",
+            "links": [],
+            "solution": " un kilom\u00e8tre",
+            "solutions": [
+                " un kilom\u00e8tre"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                102
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Meter",
+            "links": [],
+            "solution": " un m\u00e8tre",
+            "solutions": [
+                " un m\u00e8tre"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                103
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "unter der Erde/unterirdisch",
+            "links": [],
+            "solution": " sous terre",
+            "solutions": [
+                " sous terre"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                104
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "tief",
+            "links": [],
+            "solution": " profond/profonde",
+            "solutions": [
+                " profond/profonde"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                105
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Soldat/eine Soldatin",
+            "links": [],
+            "solution": " un soldat/une soldate",
+            "solutions": [
+                " un soldat/une soldate"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                106
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "das Tageslicht",
+            "links": [],
+            "solution": " le jour",
+            "solutions": [
+                " le jour"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                107
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "schrecklich/f\u00fcrchterlich/grauenhaft",
+            "links": [],
+            "solution": " horrible",
+            "solutions": [
+                " horrible"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                108
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Selfie",
+            "links": [],
+            "solution": " un selfie",
+            "solutions": [
+                " un selfie"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                109
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "vor(zeitlich)",
+            "links": [],
+            "solution": " il y a",
+            "solutions": [
+                " il y a"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                110
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "allein",
+            "links": [],
+            "solution": " seul/seule",
+            "solutions": [
+                " seul/seule"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                111
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ungef\u00e4hr/etwa",
+            "links": [],
+            "solution": " environ",
+            "solutions": [
+                " environ"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                112
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "jmd etw reichen/jmd etw (weiter) geben",
+            "links": [],
+            "solution": " passer qc \u00e0 qn",
+            "solutions": [
+                " passer qc \u00e0 qn"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                113
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Grossmutter",
+            "links": [],
+            "solution": " une grand-m\u00e8re",
+            "solutions": [
+                " une grand-m\u00e8re"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                114
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich kennenlernen/sich begegnen",
+            "links": [],
+            "solution": " se rencontrer",
+            "solutions": [
+                " se rencontrer"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                115
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine St\u00e4dte-/Schulpartnerschaft",
+            "links": [],
+            "solution": " un jumelage",
+            "solutions": [
+                " un jumelage"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                116
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich wiedersehen",
+            "links": [],
+            "solution": " se revoir",
+            "solutions": [
+                " se revoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                117
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich aus den Augen verlieren",
+            "links": [],
+            "solution": " se perdre de vue",
+            "solutions": [
+                " se perdre de vue"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                118
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich an jmd/etw erinnern",
+            "links": [],
+            "solution": " se souvenir de qn/qc",
+            "solutions": [
+                " se souvenir de qn/qc"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                119
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "eine Neuigkeit/eine Nachricht",
+            "links": [],
+            "solution": " une nouvelle",
+            "solutions": [
+                " une nouvelle"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                120
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich mit jmd verabreden",
+            "links": [],
+            "solution": " donner rendez-vous \u00e0 qn",
+            "solutions": [
+                " donner rendez-vous \u00e0 qn"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                121
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "nett",
+            "links": [],
+            "solution": " gentil/gentille",
+            "solutions": [
+                " gentil/gentille"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                122
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gew\u00f6hnlich",
+            "links": [],
+            "solution": " courant/courante",
+            "solutions": [
+                " courant/courante"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                123
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "an etw teilnhemen",
+            "links": [],
+            "solution": " participer \u00e0 qc",
+            "solutions": [
+                " participer \u00e0 qc"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                124
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ein Gef\u00fchl",
+            "links": [],
+            "solution": " un sentiment",
+            "solutions": [
+                " un sentiment"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        }
+    ]
+}

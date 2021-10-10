@@ -1,0 +1,1913 @@
+{
+    "name": "examen octobre conjugaison",
+    "id": "__iD__",
+    "enabled": false,
+    "author": "Martin Merkli",
+    "copyright": "Public domain",
+    "content": [
+        {
+            "id": [
+                "__iD__",
+                0
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "lieben/duratif/nous",
+            "links": [],
+            "solution": " nous sommes en train d'aimer",
+            "solutions": [
+                " nous sommes en train d'aimer"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                1
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "pfl\u00fccken/imparfait/nous",
+            "links": [],
+            "solution": " nous cueillions",
+            "solutions": [
+                " nous cueillions"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                2
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "reinigen/imparfait/ils",
+            "links": [],
+            "solution": " ils nettoyaient",
+            "solutions": [
+                " ils nettoyaient"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                3
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gehen/pass\u00e9 r\u00e9cent/vous",
+            "links": [],
+            "solution": " vous venez d'aller",
+            "solutions": [
+                " vous venez d'aller"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                4
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "\u00f6ffnen/futur proche/ils",
+            "links": [],
+            "solution": " ils vont ouvrir",
+            "solutions": [
+                " ils vont ouvrir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                5
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "schlafen/duratif ni\u00e9/ils",
+            "links": [],
+            "solution": " ils ne sont pas en train de dormir",
+            "solutions": [
+                " ils ne sont pas en train de dormir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                6
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kommen/imparfait/il",
+            "links": [],
+            "solution": " il venait",
+            "solutions": [
+                " il venait"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                7
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich bedienen/pass\u00e9 r\u00e9cent ni\u00e9/ils",
+            "links": [],
+            "solution": " ils ne viennent pas de se servir",
+            "solutions": [
+                " ils ne viennent pas de se servir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                8
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sein/pass\u00e9 compos\u00e9/nous",
+            "links": [],
+            "solution": " nous avons \u00e9t\u00e9",
+            "solutions": [
+                " nous avons \u00e9t\u00e9"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                9
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "essen/pr\u00e9sent/nous",
+            "links": [],
+            "solution": " nous mangeons",
+            "solutions": [
+                " nous mangeons"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                10
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "\u00f6ffnen/imp\u00e9ratif/2 sg",
+            "links": [],
+            "solution": " ouvre",
+            "solutions": [
+                " ouvre"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                11
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sterben/futur proche/ils",
+            "links": [],
+            "solution": " ils vont mourir",
+            "solutions": [
+                " ils vont mourir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                12
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "abtrocknen/duratif/ils",
+            "links": [],
+            "solution": " ils sont en train d'essuyer",
+            "solutions": [
+                " ils sont en train d'essuyer"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                13
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "rennen/pass\u00e9 compos\u00e9/ils",
+            "links": [],
+            "solution": " ils ont couru",
+            "solutions": [
+                " ils ont couru"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                14
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "beenden/imparfait/il",
+            "links": [],
+            "solution": " il finissait",
+            "solutions": [
+                " il finissait"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                15
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "bedienen/imp\u00e9ratif/2 plur",
+            "links": [],
+            "solution": " servez-vous",
+            "solutions": [
+                " servez-vous"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                16
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "anbieten/futur proche/vous",
+            "links": [],
+            "solution": " vous allez offrir",
+            "solutions": [
+                " vous allez offrir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                17
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "l\u00fcgen/pr\u00e9sent/je",
+            "links": [],
+            "solution": " je mens",
+            "solutions": [
+                " je mens"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                18
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "beginnen/imparfait/je",
+            "links": [],
+            "solution": " je commen\u00e7ais",
+            "solutions": [
+                " je commen\u00e7ais"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                19
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ausgehen/duratif/vous",
+            "links": [],
+            "solution": " vous \u00eates en train de sortir",
+            "solutions": [
+                " vous \u00eates en train de sortir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                20
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich f\u00fchlen/pass\u00e9 compos\u00e9/elles",
+            "links": [],
+            "solution": " elles se sont senties",
+            "solutions": [
+                " elles se sont senties"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                21
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "fliehen/imparfait/vous",
+            "links": [],
+            "solution": " vous fuyiez",
+            "solutions": [
+                " vous fuyiez"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                22
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "reinigen/pr\u00e9sent/il",
+            "links": [],
+            "solution": " il nettoie",
+            "solutions": [
+                " il nettoie"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                23
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "haben/imparfait/nous",
+            "links": [],
+            "solution": " nous avions",
+            "solutions": [
+                " nous avions"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                24
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "l\u00fcgen/pass\u00e9 compos\u00e9/tu",
+            "links": [],
+            "solution": " tu as menti",
+            "solutions": [
+                " tu as menti"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                25
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sein/pr\u00e9sent/je",
+            "links": [],
+            "solution": " je suis",
+            "solutions": [
+                " je suis"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                26
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sein/pr\u00e9sent/tu",
+            "links": [],
+            "solution": " tu es",
+            "solutions": [
+                " tu es"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                27
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sein/pr\u00e9sent/on",
+            "links": [],
+            "solution": " on est",
+            "solutions": [
+                " on est"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                28
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sein/pr\u00e9sent/nous",
+            "links": [],
+            "solution": " nous sommes",
+            "solutions": [
+                " nous sommes"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                29
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sein/pr\u00e9sent/vous",
+            "links": [],
+            "solution": " vous \u00eates",
+            "solutions": [
+                " vous \u00eates"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                30
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sein/pr\u00e9sent/elles",
+            "links": [],
+            "solution": " elles sont",
+            "solutions": [
+                " elles sont"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                31
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "haben/pr\u00e9sent/je",
+            "links": [],
+            "solution": " j'ai",
+            "solutions": [
+                " j'ai"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                32
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "haben/pr\u00e9sent/tu",
+            "links": [],
+            "solution": " tu as",
+            "solutions": [
+                " tu as"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                33
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "haben/pr\u00e9sent/elle",
+            "links": [],
+            "solution": " elle a",
+            "solutions": [
+                " elle a"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                34
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "haben/pr\u00e9sent/nous",
+            "links": [],
+            "solution": " nous avons",
+            "solutions": [
+                " nous avons"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                35
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "haben/pr\u00e9sent/vous",
+            "links": [],
+            "solution": " vous avez",
+            "solutions": [
+                " vous avez"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                36
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "haben/pr\u00e9sent/ils",
+            "links": [],
+            "solution": " ils ont",
+            "solutions": [
+                " ils ont"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                37
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gehen/pr\u00e9sent/je",
+            "links": [],
+            "solution": " je vais",
+            "solutions": [
+                " je vais"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                38
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gehen/pr\u00e9sent/tu",
+            "links": [],
+            "solution": "  tu vas",
+            "solutions": [
+                "  tu vas"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                39
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gehen/pr\u00e9sent/il",
+            "links": [],
+            "solution": " il va",
+            "solutions": [
+                " il va"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                40
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gehen/pr\u00e9sent/nous",
+            "links": [],
+            "solution": " nous allons",
+            "solutions": [
+                " nous allons"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                41
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gehen/pr\u00e9sent/vous",
+            "links": [],
+            "solution": " vous allez",
+            "solutions": [
+                " vous allez"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                42
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gehen/pr\u00e9sent/elles",
+            "links": [],
+            "solution": " elles vont",
+            "solutions": [
+                " elles vont"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                43
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kommen/pr\u00e9sent/je",
+            "links": [],
+            "solution": " je viens",
+            "solutions": [
+                " je viens"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                44
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kommen/pr\u00e9sent/tu",
+            "links": [],
+            "solution": " tu viens",
+            "solutions": [
+                " tu viens"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                45
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kommen/pr\u00e9sent/on",
+            "links": [],
+            "solution": " on vient",
+            "solutions": [
+                " on vient"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                46
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kommen/pr\u00e9sent/nous",
+            "links": [],
+            "solution": " nous venons",
+            "solutions": [
+                " nous venons"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                47
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kommen/pr\u00e9sent/vous",
+            "links": [],
+            "solution": " vous venez",
+            "solutions": [
+                " vous venez"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                48
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kommen/pr\u00e9sent/ils",
+            "links": [],
+            "solution": " ils viennent",
+            "solutions": [
+                " ils viennent"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                49
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "pfl\u00fccken/pass\u00e9 compos\u00e9/il",
+            "links": [],
+            "solution": " il a cueilli",
+            "solutions": [
+                " il a cueilli"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                50
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "beenden/imp\u00e9ratif ni\u00e9/2 plur",
+            "links": [],
+            "solution": " ne finissez pas",
+            "solutions": [
+                " ne finissez pas"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                51
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "weggehen/pass\u00e9 compos\u00e9/elles",
+            "links": [],
+            "solution": " elles sont parties",
+            "solutions": [
+                " elles sont parties"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                52
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ausgehen/pass\u00e9 r\u00e9cent ni\u00e9/vous",
+            "links": [],
+            "solution": " vous ne venez pas de sortir",
+            "solutions": [
+                " vous ne venez pas de sortir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                53
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "fliehen/pr\u00e9sent/vous",
+            "links": [],
+            "solution": " vous fuyez",
+            "solutions": [
+                " vous fuyez"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                54
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich bedienen/futur proche/vous",
+            "links": [],
+            "solution": " vous allez vous servir",
+            "solutions": [
+                " vous allez vous servir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                55
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "f\u00fchlen/pass\u00e9 compos\u00e9/tu",
+            "links": [],
+            "solution": " tu as senti",
+            "solutions": [
+                " tu as senti"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                56
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kommen/pass\u00e9 compos\u00e9/elles",
+            "links": [],
+            "solution": " elles sont venues",
+            "solutions": [
+                " elles sont venues"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                57
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "rennen/pr\u00e9sent/il",
+            "links": [],
+            "solution": " il court",
+            "solutions": [
+                " il court"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                58
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "anbieten/pass\u00e9 compos\u00e9/elles",
+            "links": [],
+            "solution": " elles ont offert",
+            "solutions": [
+                " elles ont offert"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                59
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sterben/duratif ni\u00e9/ils",
+            "links": [],
+            "solution": " ils ne sont pas en train de mourir",
+            "solutions": [
+                " ils ne sont pas en train de mourir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                60
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "fliehen/imp\u00e9ratif ni\u00e9/2 plur",
+            "links": [],
+            "solution": " ne fuyez pas",
+            "solutions": [
+                " ne fuyez pas"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                61
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "haben/pass\u00e9 compos\u00e9/ils",
+            "links": [],
+            "solution": " ils ont eu",
+            "solutions": [
+                " ils ont eu"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                62
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "aufstehen/futur proche/il",
+            "links": [],
+            "solution": " il va se lever",
+            "solutions": [
+                " il va se lever"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                63
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "l\u00fcgen/pr\u00e9sent/il",
+            "links": [],
+            "solution": " il ment",
+            "solutions": [
+                " il ment"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                64
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "halten/imp\u00e9ratif/1 plur",
+            "links": [],
+            "solution": " tenons",
+            "solutions": [
+                " tenons"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                65
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "halten/pr\u00e9sent/ils",
+            "links": [],
+            "solution": " ils tiennent",
+            "solutions": [
+                " ils tiennent"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                66
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "abtrocknen/pr\u00e9sent/ils",
+            "links": [],
+            "solution": " ils essuient",
+            "solutions": [
+                " ils essuient"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                67
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gehen/futur proche/tu",
+            "links": [],
+            "solution": " tu vas aller",
+            "solutions": [
+                " tu vas aller"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                68
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "pfl\u00fccken/pr\u00e9sent/ils",
+            "links": [],
+            "solution": " ils cueillent",
+            "solutions": [
+                " ils cueillent"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                69
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "fliehen/pr\u00e9sent/ils",
+            "links": [],
+            "solution": " ils fuient",
+            "solutions": [
+                " ils fuient"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                70
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "beginnen/imp\u00e9ratif/1 plur",
+            "links": [],
+            "solution": " commen\u00e7ons",
+            "solutions": [
+                " commen\u00e7ons"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                71
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "haben/futur proche/tu",
+            "links": [],
+            "solution": " tu vas avoir",
+            "solutions": [
+                " tu vas avoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                72
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kommen/pass\u00e9 compos\u00e9/elle",
+            "links": [],
+            "solution": " elle est venue",
+            "solutions": [
+                " elle est venue"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                73
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "schlafen/duratif ni\u00e9/elles",
+            "links": [],
+            "solution": " elles ne sont pas en train de dormir",
+            "solutions": [
+                " elles ne sont pas en train de dormir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                74
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "schlafen/imparfait/nous",
+            "links": [],
+            "solution": " nous dormions",
+            "solutions": [
+                " nous dormions"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                75
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich bedienen/imp\u00e9ratif ni\u00e9/2 plur",
+            "links": [],
+            "solution": " ne vous servez pas",
+            "solutions": [
+                " ne vous servez pas"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                76
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sterben/pass\u00e9 compos\u00e9/elles",
+            "links": [],
+            "solution": " elles sont mortes",
+            "solutions": [
+                " elles sont mortes"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                77
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "essen/imparfait/il",
+            "links": [],
+            "solution": " il mangeait",
+            "solutions": [
+                " il mangeait"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                78
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "aufstehen/pr\u00e9sent/elles",
+            "links": [],
+            "solution": " elles se l\u00e8vent",
+            "solutions": [
+                " elles se l\u00e8vent"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                79
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "reinigen/imparfait/nous",
+            "links": [],
+            "solution": " nous nettoyions",
+            "solutions": [
+                " nous nettoyions"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                80
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "beginnen/pr\u00e9sent/nous",
+            "links": [],
+            "solution": " nous commen\u00e7ons",
+            "solutions": [
+                " nous commen\u00e7ons"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                81
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "pfl\u00fccken/imparfait/vous",
+            "links": [],
+            "solution": " vous cueilliez",
+            "solutions": [
+                " vous cueilliez"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                82
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sein/pass\u00e9 compos\u00e9/tu",
+            "links": [],
+            "solution": " tu as \u00e9t\u00e9",
+            "solutions": [
+                " tu as \u00e9t\u00e9"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                83
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "fliehen/imparfait/ils",
+            "links": [],
+            "solution": " ils fuyaient",
+            "solutions": [
+                " ils fuyaient"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                84
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kommen/duratif/nous",
+            "links": [],
+            "solution": " nous sommes en train de venir",
+            "solutions": [
+                " nous sommes en train de venir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                85
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "weggehen/futur proche ni\u00e9/vous",
+            "links": [],
+            "solution": " vous n'allez pas partir",
+            "solutions": [
+                " vous n'allez pas partir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                86
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich f\u00fchlen/pass\u00e9 compos\u00e9/il",
+            "links": [],
+            "solution": " il s'est senti",
+            "solutions": [
+                " il s'est senti"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                87
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "reinigen/pr\u00e9sent/ils",
+            "links": [],
+            "solution": " ils nettoient",
+            "solutions": [
+                " ils nettoient"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                88
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gehen/pass\u00e9 r\u00e9cent ni\u00e9/vous",
+            "links": [],
+            "solution": " vous ne venez pas d'aller",
+            "solutions": [
+                " vous ne venez pas d'aller"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                89
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich bedienen/pass\u00e9 compos\u00e9/elles",
+            "links": [],
+            "solution": " elles se sont servies",
+            "solutions": [
+                " elles se sont servies"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                90
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "ausgehen/pass\u00e9 compos\u00e9/nous",
+            "links": [],
+            "solution": " nous sommes sortis",
+            "solutions": [
+                " nous sommes sortis"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                91
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "l\u00fcgen/imp\u00e9ratif/2 sg",
+            "links": [],
+            "solution": " mens",
+            "solutions": [
+                " mens"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                92
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "beenden/imparfait/nous",
+            "links": [],
+            "solution": " nous finissions",
+            "solutions": [
+                " nous finissions"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                93
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "lieben/duratif ni\u00e9/vous",
+            "links": [],
+            "solution": " vous n'\u00eates pas en train d'aimer",
+            "solutions": [
+                " vous n'\u00eates pas en train d'aimer"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                94
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "lieben/pass\u00e9 compos\u00e9 ni\u00e9/nous",
+            "links": [],
+            "solution": " nous n'avons pas aim\u00e9",
+            "solutions": [
+                " nous n'avons pas aim\u00e9"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                95
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "gehen/futur proche ni\u00e9/vous",
+            "links": [],
+            "solution": " vous n'allez pas aller",
+            "solutions": [
+                " vous n'allez pas aller"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                96
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "heissen/imparfait ni\u00e9/vous",
+            "links": [],
+            "solution": " vous ne vous appeliez pas",
+            "solutions": [
+                " vous ne vous appeliez pas"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                97
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "beenden/pass\u00e9 compos\u00e9 ni\u00e9/tu",
+            "links": [],
+            "solution": " tu n'as pas fini",
+            "solutions": [
+                " tu n'as pas fini"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                98
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich am\u00fcsieren/imp\u00e9ratif ni\u00e9/2 sg",
+            "links": [],
+            "solution": " ne t'amuse pas",
+            "solutions": [
+                " ne t'amuse pas"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                99
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "wollen/imparfait/ils",
+            "links": [],
+            "solution": " ils vouloaient",
+            "solutions": [
+                " ils vouloaient"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                100
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "schlafen/pass\u00e9 r\u00e9cent ni\u00e9/elles",
+            "links": [],
+            "solution": "  elles ne viennent pas de dormir",
+            "solutions": [
+                "  elles ne viennent pas de dormir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                101
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "aufstehen/imparfait/elles",
+            "links": [],
+            "solution": " elles se levaient",
+            "solutions": [
+                " elles se levaient"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                102
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kaufen/imparfait/vous",
+            "links": [],
+            "solution": " vous achetiez",
+            "solutions": [
+                " vous achetiez"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                103
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "aufstehen/futur proche ni\u00e9/elles",
+            "links": [],
+            "solution": " elles ne vont pas se lever",
+            "solutions": [
+                " elles ne vont pas se lever"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                104
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "schlafen/imparfait ni\u00e9/elles",
+            "links": [],
+            "solution": " elles ne drmaient pas",
+            "solutions": [
+                " elles ne drmaient pas"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                105
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sein/pass\u00e9 compos\u00e9 ni\u00e9/il",
+            "links": [],
+            "solution": " il n'a pas \u00e9t\u00e9",
+            "solutions": [
+                " il n'a pas \u00e9t\u00e9"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                106
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sterben/futur proche ni\u00e9/ils",
+            "links": [],
+            "solution": " ils ne vont pas mourir",
+            "solutions": [
+                " ils ne vont pas mourir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                107
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "essen/imparfait/ils",
+            "links": [],
+            "solution": " ils mangeaient",
+            "solutions": [
+                " ils mangeaient"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                108
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "regnen/pass\u00e9 r\u00e9cent ni\u00e9/il",
+            "links": [],
+            "solution": " il ne vient pas de pleuvoir",
+            "solutions": [
+                " il ne vient pas de pleuvoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                109
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich langweilen/pass\u00e9 compos\u00e9 ni\u00e9/elles",
+            "links": [],
+            "solution": " elles ne sont pas ennuy\u00e9es",
+            "solutions": [
+                " elles ne sont pas ennuy\u00e9es"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                110
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "senden/imparfait/vous",
+            "links": [],
+            "solution": " vous envoyiez",
+            "solutions": [
+                " vous envoyiez"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                111
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "kennen/imparfait/ils",
+            "links": [],
+            "solution": " ils connaissaient",
+            "solutions": [
+                " ils connaissaient"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        }
+    ]
+}
