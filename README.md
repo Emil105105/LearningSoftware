@@ -84,6 +84,6 @@ The HTML edition is usually updated later than the Python edition.
 ## Privacy ##
 
 The python edition automatically collects data about your usage, answers and technical equipment.
-The collected data isn't automatically sent to me (github.com/Emil105105), you have to manually send it.
-The collected data will not be shared with any third partys (except for anonymous data that was collected
-from all users such as the most used OS of all users)
+The collected data isn't automatically sent to me (github.com/Emil105105), you have to manually send it 
+(if you want to support this project). The collected data will not be shared with any third partys (except 
+for anonymous data that was collected from all users, such as the most popular OS of all users)
