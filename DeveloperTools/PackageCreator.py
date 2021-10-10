@@ -40,7 +40,7 @@ def create_package(name, content, author):
     package['name'] = name
     package['id'] = "__iD__"
     package['enabled'] = False
-    pacakge['author'] = author
+    package['author'] = author
     package['copyright'] = "Public domain"
     package['content'] = []
     for i in range(len(content)):
@@ -51,7 +51,7 @@ def create_package(name, content, author):
         exercise['question'] = content[i]['question']
         exercise['links'] = []
         exercise['solution'] = content[i]['solution']
-        exercise['solutions'] = [str(content[i]['solutions'])]
+        exercise['solutions'] = [str(content[i]['solution'])]
         exercise['tolerance'] = 2
         exercise['difficulty'] = 1
         exercise['frequency'] = 1.0
@@ -60,15 +60,15 @@ def create_package(name, content, author):
 
 def load_from_file(name):
     content = []
-    with open(name + '.txt', 'r') as f:
+    with open(name, 'r') as f:
         lines = f.readlines()
         for i in range(len(lines)):
             if lines[i] in ['', ' ']:
                 pass
             else:
                 exercise = {}
-                exercise['question'] = lines[i].spit(';')[0]
-                exercise['solution'] = lines[i].spit(';')[1]
+                exercise['question'] = lines[i].split(';')[0].replace(';', '')
+                exercise['solution'] = lines[i].split(';')[1].replace(';', '').replace('\n', '')
                 content.append(exercise)
     return content
 
@@ -79,7 +79,7 @@ def file_to_package():
     author = 'Martin Merkli'
     package = create_package(name, load_from_file(name), author)
     with open(name + '.json', 'w') as f:
-        f.write(json.dumps(package))
+        f.write(json.dumps(package, indent=4))
 
 if __name__ == '__main__':
     file_to_package()
