@@ -14,9 +14,9 @@
             "includes-answer-image": false,
             "question": "eine (Land)Strasse",
             "links": [],
-            "solution": " une route",
+            "solution": "une route",
             "solutions": [
-                " une route"
+                "une route"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -31,9 +31,9 @@
             "includes-answer-image": false,
             "question": "auf dem Weg nach",
             "links": [],
-            "solution": " en route pour",
+            "solution": "en route pour",
             "solutions": [
-                " en route pour"
+                "en route pour"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -48,9 +48,9 @@
             "includes-answer-image": false,
             "question": "das Elsass",
             "links": [],
-            "solution": " l'Alsace",
+            "solution": "l'Alsace",
             "solutions": [
-                " l'Alsace"
+                "l'Alsace"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -65,9 +65,9 @@
             "includes-answer-image": false,
             "question": "eine Kathedrale",
             "links": [],
-            "solution": " une cath\u00e9drale",
+            "solution": "une cath\u00e9drale",
             "solutions": [
-                " une cath\u00e9drale"
+                "une cath\u00e9drale"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -82,9 +82,9 @@
             "includes-answer-image": false,
             "question": "ein Vertreter/eine Vertreterin",
             "links": [],
-            "solution": " un repr\u00e9sentant/une repr\u00e9sentante",
+            "solution": "un repr\u00e9sentant/une repr\u00e9sentante",
             "solutions": [
-                " un repr\u00e9sentant/une repr\u00e9sentante"
+                "un repr\u00e9sentant/une repr\u00e9sentante"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -99,9 +99,9 @@
             "includes-answer-image": false,
             "question": "ein Land",
             "links": [],
-            "solution": " un pays",
+            "solution": "un pays",
             "solutions": [
-                " un pays"
+                "un pays"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -116,9 +116,9 @@
             "includes-answer-image": false,
             "question": "europ\u00e4isch",
             "links": [],
-            "solution": " europ\u00e9en/europ\u00e9enne",
+            "solution": "europ\u00e9en/europ\u00e9enne",
             "solutions": [
-                " europ\u00e9en/europ\u00e9enne"
+                "europ\u00e9en/europ\u00e9enne"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -133,9 +133,9 @@
             "includes-answer-image": false,
             "question": "sich versammeln",
             "links": [],
-            "solution": " se r\u00e9unir",
+            "solution": "se r\u00e9unir",
             "solutions": [
-                " se r\u00e9unir"
+                "se r\u00e9unir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -150,9 +150,9 @@
             "includes-answer-image": false,
             "question": "ein Fernsehsender",
             "links": [],
-            "solution": " une cha\u00eene de t\u00e9l\u00e9vision",
+            "solution": "une cha\u00eene de t\u00e9l\u00e9vision",
             "solutions": [
-                " une cha\u00eene de t\u00e9l\u00e9vision"
+                "une cha\u00eene de t\u00e9l\u00e9vision"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -167,9 +167,9 @@
             "includes-answer-image": false,
             "question": "ein B\u00fcro/B\u00fcros",
             "links": [],
-            "solution": " un bureau/des bureaux",
+            "solution": "un bureau/des bureaux",
             "solutions": [
-                " un bureau/des bureaux"
+                "un bureau/des bureaux"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -184,9 +184,9 @@
             "includes-answer-image": false,
             "question": "ein Programm",
             "links": [],
-            "solution": " un programme",
+            "solution": "un programme",
             "solutions": [
-                " un programme"
+                "un programme"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -201,9 +201,9 @@
             "includes-answer-image": false,
             "question": "eine Grenze",
             "links": [],
-            "solution": " une fronti\u00e8re",
+            "solution": "une fronti\u00e8re",
             "solutions": [
-                " une fronti\u00e8re"
+                "une fronti\u00e8re"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -218,9 +218,9 @@
             "includes-answer-image": false,
             "question": "Deutschland",
             "links": [],
-            "solution": " l'Allemagne",
+            "solution": "l'Allemagne",
             "solutions": [
-                " l'Allemagne"
+                "l'Allemagne"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -235,9 +235,9 @@
             "includes-answer-image": false,
             "question": "eine Rolle",
             "links": [],
-            "solution": " un r\u00f4le",
+            "solution": "un r\u00f4le",
             "solutions": [
-                " un r\u00f4le"
+                "un r\u00f4le"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -252,9 +252,9 @@
             "includes-answer-image": false,
             "question": "els\u00e4ssisch",
             "links": [],
-            "solution": " alsacien/alsacienne",
+            "solution": "alsacien/alsacienne",
             "solutions": [
-                " alsacien/alsacienne"
+                "alsacien/alsacienne"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -269,9 +269,9 @@
             "includes-answer-image": false,
             "question": "das Sauerkraut",
             "links": [],
-            "solution": " la choucroute",
+            "solution": "la choucroute",
             "solutions": [
-                " la choucroute"
+                "la choucroute"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -286,9 +286,9 @@
             "includes-answer-image": false,
             "question": "das Els\u00e4ssische",
             "links": [],
-            "solution": " l'alsacien",
+            "solution": "l'alsacien",
             "solutions": [
-                " l'alsacien"
+                "l'alsacien"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -303,9 +303,9 @@
             "includes-answer-image": false,
             "question": "eine Stadt",
             "links": [],
-            "solution": " une ville",
+            "solution": "une ville",
             "solutions": [
-                " une ville"
+                "une ville"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -320,9 +320,9 @@
             "includes-answer-image": false,
             "question": "sich befinden",
             "links": [],
-            "solution": " se trouver",
+            "solution": "se trouver",
             "solutions": [
-                " se trouver"
+                "se trouver"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -337,9 +337,9 @@
             "includes-answer-image": false,
             "question": "der Norden",
             "links": [],
-            "solution": " le nord",
+            "solution": "le nord",
             "solutions": [
-                " le nord"
+                "le nord"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -354,9 +354,9 @@
             "includes-answer-image": false,
             "question": "n\u00f6rdlich von",
             "links": [],
-            "solution": " au nord de",
+            "solution": "au nord de",
             "solutions": [
-                " au nord de"
+                "au nord de"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -371,9 +371,9 @@
             "includes-answer-image": false,
             "question": "der S\u00fcden",
             "links": [],
-            "solution": " le sud",
+            "solution": "le sud",
             "solutions": [
-                " le sud"
+                "le sud"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -388,9 +388,9 @@
             "includes-answer-image": false,
             "question": "s\u00fcdlich von",
             "links": [],
-            "solution": " au sud de",
+            "solution": "au sud de",
             "solutions": [
-                " au sud de"
+                "au sud de"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -405,9 +405,9 @@
             "includes-answer-image": false,
             "question": "der Osten",
             "links": [],
-            "solution": " l'est",
+            "solution": "l'est",
             "solutions": [
-                " l'est"
+                "l'est"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -422,9 +422,9 @@
             "includes-answer-image": false,
             "question": "\u00f6stlich von",
             "links": [],
-            "solution": " \u00e0 l'est de",
+            "solution": "\u00e0 l'est de",
             "solutions": [
-                " \u00e0 l'est de"
+                "\u00e0 l'est de"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -439,9 +439,9 @@
             "includes-answer-image": false,
             "question": "der Westen",
             "links": [],
-            "solution": " l'ouest",
+            "solution": "l'ouest",
             "solutions": [
-                " l'ouest"
+                "l'ouest"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -456,9 +456,9 @@
             "includes-answer-image": false,
             "question": "westlich von",
             "links": [],
-            "solution": " \u00e0 l'ouest de",
+            "solution": "\u00e0 l'ouest de",
             "solutions": [
-                " \u00e0 l'ouest de"
+                "\u00e0 l'ouest de"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -473,9 +473,9 @@
             "includes-answer-image": false,
             "question": "an der Grenze liegen zu",
             "links": [],
-            "solution": " \u00eatre \u00e0 la fronti\u00e8re avec",
+            "solution": "\u00eatre \u00e0 la fronti\u00e8re avec",
             "solutions": [
-                " \u00eatre \u00e0 la fronti\u00e8re avec"
+                "\u00eatre \u00e0 la fronti\u00e8re avec"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -490,9 +490,9 @@
             "includes-answer-image": false,
             "question": "am Rande/Ufer von etw",
             "links": [],
-            "solution": " au bord de qc",
+            "solution": "au bord de qc",
             "solutions": [
-                " au bord de qc"
+                "au bord de qc"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -507,9 +507,9 @@
             "includes-answer-image": false,
             "question": "die zehnte Klasse(die erste Klasse auf dem Lyc\u00e9e)",
             "links": [],
-            "solution": " la seconde",
+            "solution": "la seconde",
             "solutions": [
-                " la seconde"
+                "la seconde"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -524,9 +524,9 @@
             "includes-answer-image": false,
             "question": "ein Anfang",
             "links": [],
-            "solution": " un d\u00e9but",
+            "solution": "un d\u00e9but",
             "solutions": [
-                " un d\u00e9but"
+                "un d\u00e9but"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -541,9 +541,9 @@
             "includes-answer-image": false,
             "question": "am Anfang (von)",
             "links": [],
-            "solution": " au d\u00e9but (de)",
+            "solution": "au d\u00e9but (de)",
             "solutions": [
-                " au d\u00e9but (de)"
+                "au d\u00e9but (de)"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -558,9 +558,9 @@
             "includes-answer-image": false,
             "question": "die Abfahrt/der Aufbruch",
             "links": [],
-            "solution": " le d\u00e9part",
+            "solution": "le d\u00e9part",
             "solutions": [
-                " le d\u00e9part"
+                "le d\u00e9part"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -575,9 +575,9 @@
             "includes-answer-image": false,
             "question": "die Ankunft",
             "links": [],
-            "solution": " l'arriv\u00e9e",
+            "solution": "l'arriv\u00e9e",
             "solutions": [
-                " l'arriv\u00e9e"
+                "l'arriv\u00e9e"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -592,9 +592,9 @@
             "includes-answer-image": false,
             "question": "ein Besuch/eine Besichtigung",
             "links": [],
-            "solution": " une visite",
+            "solution": "une visite",
             "solutions": [
-                " une visite"
+                "une visite"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -609,9 +609,9 @@
             "includes-answer-image": false,
             "question": "eine F\u00fchrung",
             "links": [],
-            "solution": " une visite guid\u00e9e",
+            "solution": "une visite guid\u00e9e",
             "solutions": [
-                " une visite guid\u00e9e"
+                "une visite guid\u00e9e"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -626,9 +626,9 @@
             "includes-answer-image": false,
             "question": "eine Entdeckung",
             "links": [],
-            "solution": " une d\u00e9couverte",
+            "solution": "une d\u00e9couverte",
             "solutions": [
-                " une d\u00e9couverte"
+                "une d\u00e9couverte"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -643,9 +643,9 @@
             "includes-answer-image": false,
             "question": "ein Spiel/Spiele",
             "links": [],
-            "solution": " un jeu/des jeux",
+            "solution": "un jeu/des jeux",
             "solutions": [
-                " un jeu/des jeux"
+                "un jeu/des jeux"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -660,9 +660,9 @@
             "includes-answer-image": false,
             "question": "eine Schnitzeljagd",
             "links": [],
-            "solution": " un jeu de piste",
+            "solution": "un jeu de piste",
             "solutions": [
-                " un jeu de piste"
+                "un jeu de piste"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -677,9 +677,9 @@
             "includes-answer-image": false,
             "question": "frei",
             "links": [],
-            "solution": " libre",
+            "solution": "libre",
             "solutions": [
-                " libre"
+                "libre"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -694,9 +694,9 @@
             "includes-answer-image": false,
             "question": "die Freizeit",
             "links": [],
-            "solution": " le temps libre",
+            "solution": "le temps libre",
             "solutions": [
-                " le temps libre"
+                "le temps libre"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -711,9 +711,9 @@
             "includes-answer-image": false,
             "question": "eine Jugendherberge",
             "links": [],
-            "solution": " une auberge de jeunesse",
+            "solution": "une auberge de jeunesse",
             "solutions": [
-                " une auberge de jeunesse"
+                "une auberge de jeunesse"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -728,9 +728,9 @@
             "includes-answer-image": false,
             "question": "eine Begegnung/ein Treffen",
             "links": [],
-            "solution": " une rencontre",
+            "solution": "une rencontre",
             "solutions": [
-                " une rencontre"
+                "une rencontre"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -745,9 +745,9 @@
             "includes-answer-image": false,
             "question": "ein Redakteur/eine Redakteurin",
             "links": [],
-            "solution": " un r\u00e9dacteur/une r\u00e9dactrice",
+            "solution": "un r\u00e9dacteur/une r\u00e9dactrice",
             "solutions": [
-                " un r\u00e9dacteur/une r\u00e9dactrice"
+                "un r\u00e9dacteur/une r\u00e9dactrice"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -762,9 +762,9 @@
             "includes-answer-image": false,
             "question": "ein Flammkuchen",
             "links": [],
-            "solution": " une tarte flamb\u00e9e",
+            "solution": "une tarte flamb\u00e9e",
             "solutions": [
-                " une tarte flamb\u00e9e"
+                "une tarte flamb\u00e9e"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -779,9 +779,9 @@
             "includes-answer-image": false,
             "question": "eine Unterbringung",
             "links": [],
-            "solution": " un h\u00e9bergement",
+            "solution": "un h\u00e9bergement",
             "solutions": [
-                " un h\u00e9bergement"
+                "un h\u00e9bergement"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -796,9 +796,9 @@
             "includes-answer-image": false,
             "question": "Frankreich",
             "links": [],
-            "solution": " la France",
+            "solution": "la France",
             "solutions": [
-                " la France"
+                "la France"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -813,9 +813,9 @@
             "includes-answer-image": false,
             "question": "super",
             "links": [],
-            "solution": " top",
+            "solution": "top",
             "solutions": [
-                " top"
+                "top"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -830,9 +830,9 @@
             "includes-answer-image": false,
             "question": "ein Wahnsinnsprogramm",
             "links": [],
-            "solution": " un programme de ouf",
+            "solution": "un programme de ouf",
             "solutions": [
-                " un programme de ouf"
+                "un programme de ouf"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -847,9 +847,9 @@
             "includes-answer-image": false,
             "question": "kaputt(ugs.)/fertig(ugs.)",
             "links": [],
-            "solution": " crev\u00e9/crev\u00e9e",
+            "solution": "crev\u00e9/crev\u00e9e",
             "solutions": [
-                " crev\u00e9/crev\u00e9e"
+                "crev\u00e9/crev\u00e9e"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -864,9 +864,9 @@
             "includes-answer-image": false,
             "question": "die Nacht",
             "links": [],
-            "solution": " la nuit",
+            "solution": "la nuit",
             "solutions": [
-                " la nuit"
+                "la nuit"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -881,9 +881,9 @@
             "includes-answer-image": false,
             "question": "etw/jdn schicken in/zu/nach",
             "links": [],
-            "solution": " envoyer qc/qn \u00e0",
+            "solution": "envoyer qc/qn \u00e0",
             "solutions": [
-                " envoyer qc/qn \u00e0"
+                "envoyer qc/qn \u00e0"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -898,9 +898,9 @@
             "includes-answer-image": false,
             "question": "sich etw vorstellen",
             "links": [],
-            "solution": " imaginer qc",
+            "solution": "imaginer qc",
             "solutions": [
-                " imaginer qc"
+                "imaginer qc"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -915,9 +915,9 @@
             "includes-answer-image": false,
             "question": "ein Ver\u00fcckter/eine Ver\u00fcckte",
             "links": [],
-            "solution": " un fou/une folle",
+            "solution": "un fou/une folle",
             "solutions": [
-                " un fou/une folle"
+                "un fou/une folle"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -932,9 +932,9 @@
             "includes-answer-image": false,
             "question": "Unsinn machen",
             "links": [],
-            "solution": " faire le fou",
+            "solution": "faire le fou",
             "solutions": [
-                " faire le fou"
+                "faire le fou"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -949,9 +949,9 @@
             "includes-answer-image": false,
             "question": "zuerst",
             "links": [],
-            "solution": " d'abord",
+            "solution": "d'abord",
             "solutions": [
-                " d'abord"
+                "d'abord"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -966,9 +966,9 @@
             "includes-answer-image": false,
             "question": "ein Stadtzentrum",
             "links": [],
-            "solution": " un centre-ville",
+            "solution": "un centre-ville",
             "solutions": [
-                " un centre-ville"
+                "un centre-ville"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -983,9 +983,9 @@
             "includes-answer-image": false,
             "question": "danach/anschliessend",
             "links": [],
-            "solution": " ensuite",
+            "solution": "ensuite",
             "solutions": [
-                " ensuite"
+                "ensuite"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1000,9 +1000,9 @@
             "includes-answer-image": false,
             "question": "ganz (+Nomen)",
             "links": [],
-            "solution": " tout/toute",
+            "solution": "tout/toute",
             "solutions": [
-                " tout/toute"
+                "tout/toute"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1017,9 +1017,9 @@
             "includes-answer-image": false,
             "question": "alle (+Nomen)/die ganzen",
             "links": [],
-            "solution": " tous/toutes",
+            "solution": "tous/toutes",
             "solutions": [
-                " tous/toutes"
+                "tous/toutes"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1034,9 +1034,9 @@
             "includes-answer-image": false,
             "question": "interessant",
             "links": [],
-            "solution": " int\u00e9ressant/int\u00e9ressante",
+            "solution": "int\u00e9ressant/int\u00e9ressante",
             "solutions": [
-                " int\u00e9ressant/int\u00e9ressante"
+                "int\u00e9ressant/int\u00e9ressante"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1051,9 +1051,9 @@
             "includes-answer-image": false,
             "question": "super/genial",
             "links": [],
-            "solution": " g\u00e9nial/g\u00e9niale",
+            "solution": "g\u00e9nial/g\u00e9niale",
             "solutions": [
-                " g\u00e9nial/g\u00e9niale"
+                "g\u00e9nial/g\u00e9niale"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1068,9 +1068,9 @@
             "includes-answer-image": false,
             "question": "jdm vorschlagen etw zu tun",
             "links": [],
-            "solution": " proposer \u00e0 qn de faire qc",
+            "solution": "proposer \u00e0 qn de faire qc",
             "solutions": [
-                " proposer \u00e0 qn de faire qc"
+                "proposer \u00e0 qn de faire qc"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1085,9 +1085,9 @@
             "includes-answer-image": false,
             "question": "oben/nach oben",
             "links": [],
-            "solution": " en haut",
+            "solution": "en haut",
             "solutions": [
-                " en haut"
+                "en haut"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1102,9 +1102,9 @@
             "includes-answer-image": false,
             "question": "Achtung!/Vorsicht!",
             "links": [],
-            "solution": " Attention!",
+            "solution": "Attention!",
             "solutions": [
-                " Attention!"
+                "Attention!"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1119,9 +1119,9 @@
             "includes-answer-image": false,
             "question": "eine Stufe",
             "links": [],
-            "solution": " une marche",
+            "solution": "une marche",
             "solutions": [
-                " une marche"
+                "une marche"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1136,9 +1136,9 @@
             "includes-answer-image": false,
             "question": "Keine Sorge!/Mach dir keine Sorgen!",
             "links": [],
-            "solution": " T'inqui\u00e8te",
+            "solution": "T'inqui\u00e8te",
             "solutions": [
-                " T'inqui\u00e8te"
+                "T'inqui\u00e8te"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1153,9 +1153,9 @@
             "includes-answer-image": false,
             "question": "ein Aufzug/ein Fahrstuhl",
             "links": [],
-            "solution": " un ascenseur",
+            "solution": "un asceneur",
             "solutions": [
-                " un ascenseur"
+                "un asceneur"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1170,9 +1170,9 @@
             "includes-answer-image": false,
             "question": "Uff!",
             "links": [],
-            "solution": " Ouf!",
+            "solution": "Ouf!",
             "solutions": [
-                " Ouf!"
+                "Ouf!"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1187,9 +1187,9 @@
             "includes-answer-image": false,
             "question": "die ganze Zeit",
             "links": [],
-            "solution": " tout le temps",
+            "solution": "tout le temps",
             "solutions": [
-                " tout le temps"
+                "tout le temps"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1204,9 +1204,9 @@
             "includes-answer-image": false,
             "question": "sich langweilen",
             "links": [],
-            "solution": " s'ennuyer",
+            "solution": "s'ennuyer",
             "solutions": [
-                " s'ennuyer"
+                "s'ennuyer"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1221,9 +1221,9 @@
             "includes-answer-image": false,
             "question": "anstrengend",
             "links": [],
-            "solution": " fatigant/fatigante",
+            "solution": "fatigant/fatigante",
             "solutions": [
-                " fatigant/fatigante"
+                "fatigant/fatigante"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1238,9 +1238,9 @@
             "includes-answer-image": false,
             "question": "anfangen etw zu tun",
             "links": [],
-            "solution": " commencer \u00e0 faire qc",
+            "solution": "commencer \u00e0 faire qc",
             "solutions": [
-                " commencer \u00e0 faire qc"
+                "commencer \u00e0 faire qc"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1255,9 +1255,9 @@
             "includes-answer-image": false,
             "question": "so tun, als ob",
             "links": [],
-            "solution": " faire semblant (de faire qc)",
+            "solution": "faire semblant (de faire qc)",
             "solutions": [
-                " faire semblant (de faire qc)"
+                "faire semblant (de faire qc)"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1272,9 +1272,9 @@
             "includes-answer-image": false,
             "question": "gleicher Meinung sein",
             "links": [],
-            "solution": " \u00eatre du m\u00eame avis",
+            "solution": "\u00eatre du m\u00eame avis",
             "solutions": [
-                " \u00eatre du m\u00eame avis"
+                "\u00eatre du m\u00eame avis"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1289,9 +1289,9 @@
             "includes-answer-image": false,
             "question": "da/weil",
             "links": [],
-            "solution": " comme",
+            "solution": "comme",
             "solutions": [
-                " comme"
+                "comme"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1306,9 +1306,9 @@
             "includes-answer-image": false,
             "question": "eine Br\u00fccke",
             "links": [],
-            "solution": " un pont",
+            "solution": "un pont",
             "solutions": [
-                " un pont"
+                "un pont"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1323,9 +1323,9 @@
             "includes-answer-image": false,
             "question": "etw austeilen/verteilen",
             "links": [],
-            "solution": " distribuer qc",
+            "solution": "distribuer qc",
             "solutions": [
-                " distribuer qc"
+                "distribuer qc"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1340,9 +1340,9 @@
             "includes-answer-image": false,
             "question": "ausserdem",
             "links": [],
-            "solution": " en plus",
+            "solution": "en plus",
             "solutions": [
-                " en plus"
+                "en plus"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1357,9 +1357,9 @@
             "includes-answer-image": false,
             "question": "die Grosseltern",
             "links": [],
-            "solution": " les grands-parents",
+            "solution": "les grands-parents",
             "solutions": [
-                " les grands-parents"
+                "les grands-parents"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1374,9 +1374,9 @@
             "includes-answer-image": false,
             "question": "etw wie seine Westentasche kennen",
             "links": [],
-            "solution": " conna\u00eetre qc comme sa poche",
+            "solution": "conna\u00eetre qc comme sa poche",
             "solutions": [
-                " conna\u00eetre qc comme sa poche"
+                "conna\u00eetre qc comme sa poche"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1391,9 +1391,9 @@
             "includes-answer-image": false,
             "question": "Geschafft!/Es ist soweit!",
             "links": [],
-            "solution": " \u00c7a y est!",
+            "solution": "\u00c7a y est!",
             "solutions": [
-                " \u00c7a y est!"
+                "\u00c7a y est!"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1408,9 +1408,9 @@
             "includes-answer-image": false,
             "question": "bei/in der N\u00e4he von",
             "links": [],
-            "solution": " pr\u00e8s de",
+            "solution": "pr\u00e8s de",
             "solutions": [
-                " pr\u00e8s de"
+                "pr\u00e8s de"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1425,9 +1425,9 @@
             "includes-answer-image": false,
             "question": "eine Wand/eine Mauer",
             "links": [],
-            "solution": " un mur",
+            "solution": "un mur",
             "solutions": [
-                " un mur"
+                "un mur"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1442,9 +1442,9 @@
             "includes-answer-image": false,
             "question": "ein Europ\u00e4er/ eine Europ\u00e4erin",
             "links": [],
-            "solution": " un Europ\u00e9en/une Europ\u00e9enne",
+            "solution": "un Europ\u00e9en/une Europ\u00e9enne",
             "solutions": [
-                " un Europ\u00e9en/une Europ\u00e9enne"
+                "un Europ\u00e9en/une Europ\u00e9enne"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1459,9 +1459,9 @@
             "includes-answer-image": false,
             "question": "eine Institution",
             "links": [],
-            "solution": " une institution",
+            "solution": "une institution",
             "solutions": [
-                " une institution"
+                "une institution"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1476,9 +1476,9 @@
             "includes-answer-image": false,
             "question": "spannend/fesselnd",
             "links": [],
-            "solution": " passionnant/passionnante",
+            "solution": "passionnant/passionnante",
             "solutions": [
-                " passionnant/passionnante"
+                "passionnant/passionnante"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1493,9 +1493,9 @@
             "includes-answer-image": false,
             "question": "Oma/Omi",
             "links": [],
-            "solution": " mamie",
+            "solution": "mamie",
             "solutions": [
-                " mamie"
+                "mamie"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1510,9 +1510,9 @@
             "includes-answer-image": false,
             "question": "die Liebe",
             "links": [],
-            "solution": " l'amour",
+            "solution": "l'amour",
             "solutions": [
-                " l'amour"
+                "l'amour"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1527,9 +1527,9 @@
             "includes-answer-image": false,
             "question": "gew\u00f6hnlich",
             "links": [],
-            "solution": " d'habitude",
+            "solution": "d'habitude",
             "solutions": [
-                " d'habitude"
+                "d'habitude"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1544,9 +1544,9 @@
             "includes-answer-image": false,
             "question": "ziemlich",
             "links": [],
-            "solution": " assez",
+            "solution": "assez",
             "solutions": [
-                " assez"
+                "assez"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1561,9 +1561,9 @@
             "includes-answer-image": false,
             "question": "hoffen",
             "links": [],
-            "solution": " esp\u00e9rer",
+            "solution": "esp\u00e9rer",
             "solutions": [
-                " esp\u00e9rer"
+                "esp\u00e9rer"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1578,9 +1578,9 @@
             "includes-answer-image": false,
             "question": "sich beeilen",
             "links": [],
-            "solution": " se d\u00e9p\u00eacher",
+            "solution": "se d\u00e9p\u00eacher",
             "solutions": [
-                " se d\u00e9p\u00eacher"
+                "se d\u00e9p\u00eacher"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1595,9 +1595,9 @@
             "includes-answer-image": false,
             "question": "ein F\u00f6hn/ein Haartrockner",
             "links": [],
-            "solution": " un s\u00e8che-cheveux",
+            "solution": "un s\u00e8che-cheveux",
             "solutions": [
-                " un s\u00e8che-cheveux"
+                "un s\u00e8che-cheveux"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1612,9 +1612,9 @@
             "includes-answer-image": false,
             "question": "anhalten/Halt machen",
             "links": [],
-            "solution": " s'arr\u00eater",
+            "solution": "s'arr\u00eater",
             "solutions": [
-                " s'arr\u00eater"
+                "s'arr\u00eater"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1629,9 +1629,9 @@
             "includes-answer-image": false,
             "question": "zu etw geh\u00f6ren/ ein Teil von etw sein",
             "links": [],
-            "solution": " faire partie de qc",
+            "solution": "faire partie de qc",
             "solutions": [
-                " faire partie de qc"
+                "faire partie de qc"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1646,9 +1646,9 @@
             "includes-answer-image": false,
             "question": "eine Verteidigung",
             "links": [],
-            "solution": " une d\u00e9fense",
+            "solution": "une d\u00e9fense",
             "solutions": [
-                " une d\u00e9fense"
+                "une d\u00e9fense"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1663,9 +1663,9 @@
             "includes-answer-image": false,
             "question": "der Zweite Weltkrieg",
             "links": [],
-            "solution": " la Seconde Guerre mondiale",
+            "solution": "la Seconde Guerre mondiale",
             "solutions": [
-                " la Seconde Guerre mondiale"
+                "la Seconde Guerre mondiale"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1680,9 +1680,9 @@
             "includes-answer-image": false,
             "question": "ein Tunnel",
             "links": [],
-            "solution": " un tunnel",
+            "solution": "un tunnel",
             "solutions": [
-                " un tunnel"
+                "un tunnel"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1697,9 +1697,9 @@
             "includes-answer-image": false,
             "question": "die Wirklichkeit/die Realit\u00e4t",
             "links": [],
-            "solution": " la r\u00e9alit\u00e9",
+            "solution": "la r\u00e9alit\u00e9",
             "solutions": [
-                " la r\u00e9alit\u00e9"
+                "la r\u00e9alit\u00e9"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1714,9 +1714,9 @@
             "includes-answer-image": false,
             "question": "verschieden/anders/unterschiedlich",
             "links": [],
-            "solution": " diff\u00e9rent/diff\u00e9rente",
+            "solution": "diff\u00e9rent/diff\u00e9rente",
             "solutions": [
-                " diff\u00e9rent/diff\u00e9rente"
+                "diff\u00e9rent/diff\u00e9rente"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1731,9 +1731,9 @@
             "includes-answer-image": false,
             "question": "ein Kilometer",
             "links": [],
-            "solution": " un kilom\u00e8tre",
+            "solution": "un kilom\u00e8tre",
             "solutions": [
-                " un kilom\u00e8tre"
+                "un kilom\u00e8tre"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1748,9 +1748,9 @@
             "includes-answer-image": false,
             "question": "ein Meter",
             "links": [],
-            "solution": " un m\u00e8tre",
+            "solution": "un m\u00e8tre",
             "solutions": [
-                " un m\u00e8tre"
+                "un m\u00e8tre"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1765,9 +1765,9 @@
             "includes-answer-image": false,
             "question": "unter der Erde/unterirdisch",
             "links": [],
-            "solution": " sous terre",
+            "solution": "sous terre",
             "solutions": [
-                " sous terre"
+                "sous terre"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1782,9 +1782,9 @@
             "includes-answer-image": false,
             "question": "tief",
             "links": [],
-            "solution": " profond/profonde",
+            "solution": "profond/profonde",
             "solutions": [
-                " profond/profonde"
+                "profond/profonde"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1799,9 +1799,9 @@
             "includes-answer-image": false,
             "question": "ein Soldat/eine Soldatin",
             "links": [],
-            "solution": " un soldat/une soldate",
+            "solution": "un soldat/une soldate",
             "solutions": [
-                " un soldat/une soldate"
+                "un soldat/une soldate"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1816,9 +1816,9 @@
             "includes-answer-image": false,
             "question": "das Tageslicht",
             "links": [],
-            "solution": " le jour",
+            "solution": "le jour",
             "solutions": [
-                " le jour"
+                "le jour"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1833,9 +1833,9 @@
             "includes-answer-image": false,
             "question": "schrecklich/f\u00fcrchterlich/grauenhaft",
             "links": [],
-            "solution": " horrible",
+            "solution": "horrible",
             "solutions": [
-                " horrible"
+                "horrible"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1850,9 +1850,9 @@
             "includes-answer-image": false,
             "question": "ein Selfie",
             "links": [],
-            "solution": " un selfie",
+            "solution": "un selfie",
             "solutions": [
-                " un selfie"
+                "un selfie"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1867,9 +1867,9 @@
             "includes-answer-image": false,
             "question": "vor(zeitlich)",
             "links": [],
-            "solution": " il y a",
+            "solution": "il y a",
             "solutions": [
-                " il y a"
+                "il y a"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1884,9 +1884,9 @@
             "includes-answer-image": false,
             "question": "allein",
             "links": [],
-            "solution": " seul/seule",
+            "solution": "seul/seule",
             "solutions": [
-                " seul/seule"
+                "seul/seule"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1901,9 +1901,9 @@
             "includes-answer-image": false,
             "question": "ungef\u00e4hr/etwa",
             "links": [],
-            "solution": " environ",
+            "solution": "environ",
             "solutions": [
-                " environ"
+                "environ"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1918,9 +1918,9 @@
             "includes-answer-image": false,
             "question": "jmd etw reichen/jmd etw (weiter) geben",
             "links": [],
-            "solution": " passer qc \u00e0 qn",
+            "solution": "passer qc \u00e0 qn",
             "solutions": [
-                " passer qc \u00e0 qn"
+                "passer qc \u00e0 qn"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1935,9 +1935,9 @@
             "includes-answer-image": false,
             "question": "eine Grossmutter",
             "links": [],
-            "solution": " une grand-m\u00e8re",
+            "solution": "une grand-m\u00e8re",
             "solutions": [
-                " une grand-m\u00e8re"
+                "une grand-m\u00e8re"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1952,9 +1952,9 @@
             "includes-answer-image": false,
             "question": "sich kennenlernen/sich begegnen",
             "links": [],
-            "solution": " se rencontrer",
+            "solution": "se rencontrer",
             "solutions": [
-                " se rencontrer"
+                "se rencontrer"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1969,9 +1969,9 @@
             "includes-answer-image": false,
             "question": "eine St\u00e4dte-/Schulpartnerschaft",
             "links": [],
-            "solution": " un jumelage",
+            "solution": "un jumelage",
             "solutions": [
-                " un jumelage"
+                "un jumelage"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1986,9 +1986,9 @@
             "includes-answer-image": false,
             "question": "sich wiedersehen",
             "links": [],
-            "solution": " se revoir",
+            "solution": "se revoir",
             "solutions": [
-                " se revoir"
+                "se revoir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -2003,9 +2003,9 @@
             "includes-answer-image": false,
             "question": "sich aus den Augen verlieren",
             "links": [],
-            "solution": " se perdre de vue",
+            "solution": "se perdre de vue",
             "solutions": [
-                " se perdre de vue"
+                "se perdre de vue"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -2020,9 +2020,9 @@
             "includes-answer-image": false,
             "question": "sich an jmd/etw erinnern",
             "links": [],
-            "solution": " se souvenir de qn/qc",
+            "solution": "se souvenir de qn/qc",
             "solutions": [
-                " se souvenir de qn/qc"
+                "se souvenir de qn/qc"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -2037,9 +2037,9 @@
             "includes-answer-image": false,
             "question": "eine Neuigkeit/eine Nachricht",
             "links": [],
-            "solution": " une nouvelle",
+            "solution": "une nouvelle",
             "solutions": [
-                " une nouvelle"
+                "une nouvelle"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -2054,9 +2054,9 @@
             "includes-answer-image": false,
             "question": "sich mit jmd verabreden",
             "links": [],
-            "solution": " donner rendez-vous \u00e0 qn",
+            "solution": "donner rendez-vous \u00e0 qn",
             "solutions": [
-                " donner rendez-vous \u00e0 qn"
+                "donner rendez-vous \u00e0 qn"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -2071,9 +2071,9 @@
             "includes-answer-image": false,
             "question": "nett",
             "links": [],
-            "solution": " gentil/gentille",
+            "solution": "gentil/gentille",
             "solutions": [
-                " gentil/gentille"
+                "gentil/gentille"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -2088,9 +2088,9 @@
             "includes-answer-image": false,
             "question": "gew\u00f6hnlich",
             "links": [],
-            "solution": " courant/courante",
+            "solution": "courant/courante",
             "solutions": [
-                " courant/courante"
+                "courant/courante"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -2105,9 +2105,9 @@
             "includes-answer-image": false,
             "question": "an etw teilnhemen",
             "links": [],
-            "solution": " participer \u00e0 qc",
+            "solution": "participer \u00e0 qc",
             "solutions": [
-                " participer \u00e0 qc"
+                "participer \u00e0 qc"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -2122,9 +2122,9 @@
             "includes-answer-image": false,
             "question": "ein Gef\u00fchl",
             "links": [],
-            "solution": " un sentiment",
+            "solution": "un sentiment",
             "solutions": [
-                " un sentiment"
+                "un sentiment"
             ],
             "tolerance": 2,
             "difficulty": 1,
