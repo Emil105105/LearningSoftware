@@ -1,5 +1,5 @@
 {
-    "name": "examen octobre verbes",
+    "name": "file",
     "id": "__iD__",
     "enabled": false,
     "author": "Martin Merkli",
@@ -14,9 +14,9 @@
             "includes-answer-image": false,
             "question": "lieben/gerne haben",
             "links": [],
-            "solution": " aimer",
+            "solution": "aimer",
             "solutions": [
-                " aimer"
+                "aimer"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -31,9 +31,9 @@
             "includes-answer-image": false,
             "question": "beginnen/anfangen",
             "links": [],
-            "solution": " commencer",
+            "solution": "commencer",
             "solutions": [
-                " commencer"
+                "commencer"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -48,9 +48,9 @@
             "includes-answer-image": false,
             "question": "essen",
             "links": [],
-            "solution": " manger",
+            "solution": "manger",
             "solutions": [
-                " manger"
+                "manger"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -65,9 +65,9 @@
             "includes-answer-image": false,
             "question": "heben",
             "links": [],
-            "solution": " lever",
+            "solution": "lever",
             "solutions": [
-                " lever"
+                "lever"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -82,9 +82,9 @@
             "includes-answer-image": false,
             "question": "aufstehen",
             "links": [],
-            "solution": " se lever",
+            "solution": "se lever",
             "solutions": [
-                " se lever"
+                "se lever"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -99,9 +99,9 @@
             "includes-answer-image": false,
             "question": "reinigen/putzen",
             "links": [],
-            "solution": " nettoyer",
+            "solution": "nettoyer",
             "solutions": [
-                " nettoyer"
+                "nettoyer"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -116,9 +116,9 @@
             "includes-answer-image": false,
             "question": "abtrocknen",
             "links": [],
-            "solution": " essuyer",
+            "solution": "essuyer",
             "solutions": [
-                " essuyer"
+                "essuyer"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -133,9 +133,9 @@
             "includes-answer-image": false,
             "question": "gehen",
             "links": [],
-            "solution": " aller",
+            "solution": "aller",
             "solutions": [
-                " aller"
+                "aller"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -150,9 +150,9 @@
             "includes-answer-image": false,
             "question": "\u00f6ffnen",
             "links": [],
-            "solution": " ouvrir",
+            "solution": "ouvrir",
             "solutions": [
-                " ouvrir"
+                "ouvrir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -167,9 +167,9 @@
             "includes-answer-image": false,
             "question": "rennen",
             "links": [],
-            "solution": " courir",
+            "solution": "courir",
             "solutions": [
-                " courir"
+                "courir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -184,9 +184,9 @@
             "includes-answer-image": false,
             "question": "anbieten",
             "links": [],
-            "solution": " offrir",
+            "solution": "offrir",
             "solutions": [
-                " offrir"
+                "offrir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -201,9 +201,9 @@
             "includes-answer-image": false,
             "question": "l\u00fcgen",
             "links": [],
-            "solution": " mentir",
+            "solution": "mentir",
             "solutions": [
-                " mentir"
+                "mentir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -218,9 +218,9 @@
             "includes-answer-image": false,
             "question": "pfl\u00fccken",
             "links": [],
-            "solution": " cueillir",
+            "solution": "cueillir",
             "solutions": [
-                " cueillir"
+                "cueillir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -235,9 +235,9 @@
             "includes-answer-image": false,
             "question": "beenden",
             "links": [],
-            "solution": " finir",
+            "solution": "finir",
             "solutions": [
-                " finir"
+                "finir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -252,9 +252,9 @@
             "includes-answer-image": false,
             "question": "sterben",
             "links": [],
-            "solution": " mourir",
+            "solution": "mourir",
             "solutions": [
-                " mourir"
+                "mourir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -269,9 +269,9 @@
             "includes-answer-image": false,
             "question": "kommen",
             "links": [],
-            "solution": " venir",
+            "solution": "venir",
             "solutions": [
-                " venir"
+                "venir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -286,9 +286,9 @@
             "includes-answer-image": false,
             "question": "halten",
             "links": [],
-            "solution": " tenir",
+            "solution": "tenir",
             "solutions": [
-                " tenir"
+                "tenir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -303,9 +303,9 @@
             "includes-answer-image": false,
             "question": "schlafen",
             "links": [],
-            "solution": " dormir",
+            "solution": "dormir",
             "solutions": [
-                " dormir"
+                "dormir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -320,9 +320,9 @@
             "includes-answer-image": false,
             "question": "weggehen",
             "links": [],
-            "solution": " partir",
+            "solution": "partir",
             "solutions": [
-                " partir"
+                "partir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -337,9 +337,9 @@
             "includes-answer-image": false,
             "question": "ausgehen",
             "links": [],
-            "solution": " sortir",
+            "solution": "sortir",
             "solutions": [
-                " sortir"
+                "sortir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -354,9 +354,9 @@
             "includes-answer-image": false,
             "question": "f\u00fchlen/sp\u00fcren",
             "links": [],
-            "solution": " sentir",
+            "solution": "sentir",
             "solutions": [
-                " sentir"
+                "sentir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -371,9 +371,9 @@
             "includes-answer-image": false,
             "question": "bedienen",
             "links": [],
-            "solution": " servir",
+            "solution": "servir",
             "solutions": [
-                " servir"
+                "servir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -388,9 +388,9 @@
             "includes-answer-image": false,
             "question": "sich bedienen",
             "links": [],
-            "solution": " se servir",
+            "solution": "se servir",
             "solutions": [
-                " se servir"
+                "se servir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -405,9 +405,213 @@
             "includes-answer-image": false,
             "question": "fliehen",
             "links": [],
-            "solution": " fuir",
+            "solution": "fuir",
             "solutions": [
-                " fuir"
+                "fuir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                24
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "erhalten",
+            "links": [],
+            "solution": "recevoir",
+            "solutions": [
+                "recevoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                25
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "entt\u00e4uschen",
+            "links": [],
+            "solution": "d\u00e9cevoir",
+            "solutions": [
+                "d\u00e9cevoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                26
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "erblicken",
+            "links": [],
+            "solution": "apercevoir",
+            "solutions": [
+                "apercevoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                27
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "wissen",
+            "links": [],
+            "solution": "savoir",
+            "solutions": [
+                "savoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                28
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "m\u00fcssen",
+            "links": [],
+            "solution": "devoir",
+            "solutions": [
+                "devoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                29
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "k\u00f6nnen",
+            "links": [],
+            "solution": "pouvoir",
+            "solutions": [
+                "pouvoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                30
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "wollen",
+            "links": [],
+            "solution": "vouloir",
+            "solutions": [
+                "vouloir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                31
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sehen",
+            "links": [],
+            "solution": "voir",
+            "solutions": [
+                "voir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                32
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "man muss",
+            "links": [],
+            "solution": "falloir",
+            "solutions": [
+                "falloir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                33
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "wert sein",
+            "links": [],
+            "solution": "valoir",
+            "solutions": [
+                "valoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                34
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "sich hinsetzen",
+            "links": [],
+            "solution": "s'asseoir",
+            "solutions": [
+                "s'asseoir"
+            ],
+            "tolerance": 2,
+            "difficulty": 1,
+            "frequency": 1.0
+        },
+        {
+            "id": [
+                "__iD__",
+                35
+            ],
+            "includes-image": false,
+            "includes-answer-image": false,
+            "question": "regnen",
+            "links": [],
+            "solution": "pleuvoir",
+            "solutions": [
+                "pleuvoir"
             ],
             "tolerance": 2,
             "difficulty": 1,
