@@ -14,9 +14,9 @@
             "includes-answer-image": false,
             "question": "lieben/duratif/nous",
             "links": [],
-            "solution": " nous sommes en train d'aimer",
+            "solution": "nous sommes en train d'aimer",
             "solutions": [
-                " nous sommes en train d'aimer"
+                "nous sommes en train d'aimer"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -31,9 +31,9 @@
             "includes-answer-image": false,
             "question": "pfl\u00fccken/imparfait/nous",
             "links": [],
-            "solution": " nous cueillions",
+            "solution": "nous cueillions",
             "solutions": [
-                " nous cueillions"
+                "nous cueillions"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -48,9 +48,9 @@
             "includes-answer-image": false,
             "question": "reinigen/imparfait/ils",
             "links": [],
-            "solution": " ils nettoyaient",
+            "solution": "ils nettoyaient",
             "solutions": [
-                " ils nettoyaient"
+                "ils nettoyaient"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -65,9 +65,9 @@
             "includes-answer-image": false,
             "question": "gehen/pass\u00e9 r\u00e9cent/vous",
             "links": [],
-            "solution": " vous venez d'aller",
+            "solution": "vous venez d'aller",
             "solutions": [
-                " vous venez d'aller"
+                "vous venez d'aller"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -82,9 +82,9 @@
             "includes-answer-image": false,
             "question": "\u00f6ffnen/futur proche/ils",
             "links": [],
-            "solution": " ils vont ouvrir",
+            "solution": "ils vont ouvrir",
             "solutions": [
-                " ils vont ouvrir"
+                "ils vont ouvrir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -99,9 +99,9 @@
             "includes-answer-image": false,
             "question": "schlafen/duratif ni\u00e9/ils",
             "links": [],
-            "solution": " ils ne sont pas en train de dormir",
+            "solution": "ils ne sont pas en train de dormir",
             "solutions": [
-                " ils ne sont pas en train de dormir"
+                "ils ne sont pas en train de dormir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -116,9 +116,9 @@
             "includes-answer-image": false,
             "question": "kommen/imparfait/il",
             "links": [],
-            "solution": " il venait",
+            "solution": "il venait",
             "solutions": [
-                " il venait"
+                "il venait"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -133,9 +133,9 @@
             "includes-answer-image": false,
             "question": "sich bedienen/pass\u00e9 r\u00e9cent ni\u00e9/ils",
             "links": [],
-            "solution": " ils ne viennent pas de se servir",
+            "solution": "ils ne viennent pas de se servir",
             "solutions": [
-                " ils ne viennent pas de se servir"
+                "ils ne viennent pas de se servir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -150,9 +150,9 @@
             "includes-answer-image": false,
             "question": "sein/pass\u00e9 compos\u00e9/nous",
             "links": [],
-            "solution": " nous avons \u00e9t\u00e9",
+            "solution": "nous avons \u00e9t\u00e9",
             "solutions": [
-                " nous avons \u00e9t\u00e9"
+                "nous avons \u00e9t\u00e9"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -167,9 +167,9 @@
             "includes-answer-image": false,
             "question": "essen/pr\u00e9sent/nous",
             "links": [],
-            "solution": " nous mangeons",
+            "solution": "nous mangeons",
             "solutions": [
-                " nous mangeons"
+                "nous mangeons"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -184,9 +184,9 @@
             "includes-answer-image": false,
             "question": "\u00f6ffnen/imp\u00e9ratif/2 sg",
             "links": [],
-            "solution": " ouvre",
+            "solution": "ouvre",
             "solutions": [
-                " ouvre"
+                "ouvre"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -201,9 +201,9 @@
             "includes-answer-image": false,
             "question": "sterben/futur proche/ils",
             "links": [],
-            "solution": " ils vont mourir",
+            "solution": "ils vont mourir",
             "solutions": [
-                " ils vont mourir"
+                "ils vont mourir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -218,9 +218,9 @@
             "includes-answer-image": false,
             "question": "abtrocknen/duratif/ils",
             "links": [],
-            "solution": " ils sont en train d'essuyer",
+            "solution": "ils sont en train d'essuyer",
             "solutions": [
-                " ils sont en train d'essuyer"
+                "ils sont en train d'essuyer"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -235,9 +235,9 @@
             "includes-answer-image": false,
             "question": "rennen/pass\u00e9 compos\u00e9/ils",
             "links": [],
-            "solution": " ils ont couru",
+            "solution": "ils ont couru",
             "solutions": [
-                " ils ont couru"
+                "ils ont couru"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -252,9 +252,9 @@
             "includes-answer-image": false,
             "question": "beenden/imparfait/il",
             "links": [],
-            "solution": " il finissait",
+            "solution": "il finissait",
             "solutions": [
-                " il finissait"
+                "il finissait"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -269,9 +269,9 @@
             "includes-answer-image": false,
             "question": "bedienen/imp\u00e9ratif/2 plur",
             "links": [],
-            "solution": " servez-vous",
+            "solution": "servez-vous",
             "solutions": [
-                " servez-vous"
+                "servez-vous"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -286,9 +286,9 @@
             "includes-answer-image": false,
             "question": "anbieten/futur proche/vous",
             "links": [],
-            "solution": " vous allez offrir",
+            "solution": "vous allez offrir",
             "solutions": [
-                " vous allez offrir"
+                "vous allez offrir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -303,9 +303,9 @@
             "includes-answer-image": false,
             "question": "l\u00fcgen/pr\u00e9sent/je",
             "links": [],
-            "solution": " je mens",
+            "solution": "je mens",
             "solutions": [
-                " je mens"
+                "je mens"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -320,9 +320,9 @@
             "includes-answer-image": false,
             "question": "beginnen/imparfait/je",
             "links": [],
-            "solution": " je commen\u00e7ais",
+            "solution": "je commen\u00e7ais",
             "solutions": [
-                " je commen\u00e7ais"
+                "je commen\u00e7ais"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -337,9 +337,9 @@
             "includes-answer-image": false,
             "question": "ausgehen/duratif/vous",
             "links": [],
-            "solution": " vous \u00eates en train de sortir",
+            "solution": "vous \u00eates en train de sortir",
             "solutions": [
-                " vous \u00eates en train de sortir"
+                "vous \u00eates en train de sortir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -354,9 +354,9 @@
             "includes-answer-image": false,
             "question": "sich f\u00fchlen/pass\u00e9 compos\u00e9/elles",
             "links": [],
-            "solution": " elles se sont senties",
+            "solution": "elles se sont senties",
             "solutions": [
-                " elles se sont senties"
+                "elles se sont senties"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -371,9 +371,9 @@
             "includes-answer-image": false,
             "question": "fliehen/imparfait/vous",
             "links": [],
-            "solution": " vous fuyiez",
+            "solution": "vous fuyiez",
             "solutions": [
-                " vous fuyiez"
+                "vous fuyiez"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -388,9 +388,9 @@
             "includes-answer-image": false,
             "question": "reinigen/pr\u00e9sent/il",
             "links": [],
-            "solution": " il nettoie",
+            "solution": "il nettoie",
             "solutions": [
-                " il nettoie"
+                "il nettoie"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -405,9 +405,9 @@
             "includes-answer-image": false,
             "question": "haben/imparfait/nous",
             "links": [],
-            "solution": " nous avions",
+            "solution": "nous avions",
             "solutions": [
-                " nous avions"
+                "nous avions"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -422,9 +422,9 @@
             "includes-answer-image": false,
             "question": "l\u00fcgen/pass\u00e9 compos\u00e9/tu",
             "links": [],
-            "solution": " tu as menti",
+            "solution": "tu as menti",
             "solutions": [
-                " tu as menti"
+                "tu as menti"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -439,9 +439,9 @@
             "includes-answer-image": false,
             "question": "sein/pr\u00e9sent/je",
             "links": [],
-            "solution": " je suis",
+            "solution": "je suis",
             "solutions": [
-                " je suis"
+                "je suis"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -456,9 +456,9 @@
             "includes-answer-image": false,
             "question": "sein/pr\u00e9sent/tu",
             "links": [],
-            "solution": " tu es",
+            "solution": "tu es",
             "solutions": [
-                " tu es"
+                "tu es"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -473,9 +473,9 @@
             "includes-answer-image": false,
             "question": "sein/pr\u00e9sent/on",
             "links": [],
-            "solution": " on est",
+            "solution": "on est",
             "solutions": [
-                " on est"
+                "on est"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -490,9 +490,9 @@
             "includes-answer-image": false,
             "question": "sein/pr\u00e9sent/nous",
             "links": [],
-            "solution": " nous sommes",
+            "solution": "nous sommes",
             "solutions": [
-                " nous sommes"
+                "nous sommes"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -507,9 +507,9 @@
             "includes-answer-image": false,
             "question": "sein/pr\u00e9sent/vous",
             "links": [],
-            "solution": " vous \u00eates",
+            "solution": "vous \u00eates",
             "solutions": [
-                " vous \u00eates"
+                "vous \u00eates"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -524,9 +524,9 @@
             "includes-answer-image": false,
             "question": "sein/pr\u00e9sent/elles",
             "links": [],
-            "solution": " elles sont",
+            "solution": "elles sont",
             "solutions": [
-                " elles sont"
+                "elles sont"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -541,9 +541,9 @@
             "includes-answer-image": false,
             "question": "haben/pr\u00e9sent/je",
             "links": [],
-            "solution": " j'ai",
+            "solution": "j'ai",
             "solutions": [
-                " j'ai"
+                "j'ai"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -558,9 +558,9 @@
             "includes-answer-image": false,
             "question": "haben/pr\u00e9sent/tu",
             "links": [],
-            "solution": " tu as",
+            "solution": "tu as",
             "solutions": [
-                " tu as"
+                "tu as"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -575,9 +575,9 @@
             "includes-answer-image": false,
             "question": "haben/pr\u00e9sent/elle",
             "links": [],
-            "solution": " elle a",
+            "solution": "elle a",
             "solutions": [
-                " elle a"
+                "elle a"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -592,9 +592,9 @@
             "includes-answer-image": false,
             "question": "haben/pr\u00e9sent/nous",
             "links": [],
-            "solution": " nous avons",
+            "solution": "nous avons",
             "solutions": [
-                " nous avons"
+                "nous avons"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -609,9 +609,9 @@
             "includes-answer-image": false,
             "question": "haben/pr\u00e9sent/vous",
             "links": [],
-            "solution": " vous avez",
+            "solution": "vous avez",
             "solutions": [
-                " vous avez"
+                "vous avez"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -626,9 +626,9 @@
             "includes-answer-image": false,
             "question": "haben/pr\u00e9sent/ils",
             "links": [],
-            "solution": " ils ont",
+            "solution": "ils ont",
             "solutions": [
-                " ils ont"
+                "ils ont"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -643,9 +643,9 @@
             "includes-answer-image": false,
             "question": "gehen/pr\u00e9sent/je",
             "links": [],
-            "solution": " je vais",
+            "solution": "je vais",
             "solutions": [
-                " je vais"
+                "je vais"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -660,9 +660,9 @@
             "includes-answer-image": false,
             "question": "gehen/pr\u00e9sent/tu",
             "links": [],
-            "solution": "  tu vas",
+            "solution": " tu vas",
             "solutions": [
-                "  tu vas"
+                " tu vas"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -677,9 +677,9 @@
             "includes-answer-image": false,
             "question": "gehen/pr\u00e9sent/il",
             "links": [],
-            "solution": " il va",
+            "solution": "il va",
             "solutions": [
-                " il va"
+                "il va"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -694,9 +694,9 @@
             "includes-answer-image": false,
             "question": "gehen/pr\u00e9sent/nous",
             "links": [],
-            "solution": " nous allons",
+            "solution": "nous allons",
             "solutions": [
-                " nous allons"
+                "nous allons"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -711,9 +711,9 @@
             "includes-answer-image": false,
             "question": "gehen/pr\u00e9sent/vous",
             "links": [],
-            "solution": " vous allez",
+            "solution": "vous allez",
             "solutions": [
-                " vous allez"
+                "vous allez"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -728,9 +728,9 @@
             "includes-answer-image": false,
             "question": "gehen/pr\u00e9sent/elles",
             "links": [],
-            "solution": " elles vont",
+            "solution": "elles vont",
             "solutions": [
-                " elles vont"
+                "elles vont"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -745,9 +745,9 @@
             "includes-answer-image": false,
             "question": "kommen/pr\u00e9sent/je",
             "links": [],
-            "solution": " je viens",
+            "solution": "je viens",
             "solutions": [
-                " je viens"
+                "je viens"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -762,9 +762,9 @@
             "includes-answer-image": false,
             "question": "kommen/pr\u00e9sent/tu",
             "links": [],
-            "solution": " tu viens",
+            "solution": "tu viens",
             "solutions": [
-                " tu viens"
+                "tu viens"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -779,9 +779,9 @@
             "includes-answer-image": false,
             "question": "kommen/pr\u00e9sent/on",
             "links": [],
-            "solution": " on vient",
+            "solution": "on vient",
             "solutions": [
-                " on vient"
+                "on vient"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -796,9 +796,9 @@
             "includes-answer-image": false,
             "question": "kommen/pr\u00e9sent/nous",
             "links": [],
-            "solution": " nous venons",
+            "solution": "nous venons",
             "solutions": [
-                " nous venons"
+                "nous venons"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -813,9 +813,9 @@
             "includes-answer-image": false,
             "question": "kommen/pr\u00e9sent/vous",
             "links": [],
-            "solution": " vous venez",
+            "solution": "vous venez",
             "solutions": [
-                " vous venez"
+                "vous venez"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -830,9 +830,9 @@
             "includes-answer-image": false,
             "question": "kommen/pr\u00e9sent/ils",
             "links": [],
-            "solution": " ils viennent",
+            "solution": "ils viennent",
             "solutions": [
-                " ils viennent"
+                "ils viennent"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -847,9 +847,9 @@
             "includes-answer-image": false,
             "question": "pfl\u00fccken/pass\u00e9 compos\u00e9/il",
             "links": [],
-            "solution": " il a cueilli",
+            "solution": "il a cueilli",
             "solutions": [
-                " il a cueilli"
+                "il a cueilli"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -864,9 +864,9 @@
             "includes-answer-image": false,
             "question": "beenden/imp\u00e9ratif ni\u00e9/2 plur",
             "links": [],
-            "solution": " ne finissez pas",
+            "solution": "ne finissez pas",
             "solutions": [
-                " ne finissez pas"
+                "ne finissez pas"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -881,9 +881,9 @@
             "includes-answer-image": false,
             "question": "weggehen/pass\u00e9 compos\u00e9/elles",
             "links": [],
-            "solution": " elles sont parties",
+            "solution": "elles sont parties",
             "solutions": [
-                " elles sont parties"
+                "elles sont parties"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -898,9 +898,9 @@
             "includes-answer-image": false,
             "question": "ausgehen/pass\u00e9 r\u00e9cent ni\u00e9/vous",
             "links": [],
-            "solution": " vous ne venez pas de sortir",
+            "solution": "vous ne venez pas de sortir",
             "solutions": [
-                " vous ne venez pas de sortir"
+                "vous ne venez pas de sortir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -915,9 +915,9 @@
             "includes-answer-image": false,
             "question": "fliehen/pr\u00e9sent/vous",
             "links": [],
-            "solution": " vous fuyez",
+            "solution": "vous fuyez",
             "solutions": [
-                " vous fuyez"
+                "vous fuyez"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -932,9 +932,9 @@
             "includes-answer-image": false,
             "question": "sich bedienen/futur proche/vous",
             "links": [],
-            "solution": " vous allez vous servir",
+            "solution": "vous allez vous servir",
             "solutions": [
-                " vous allez vous servir"
+                "vous allez vous servir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -949,9 +949,9 @@
             "includes-answer-image": false,
             "question": "f\u00fchlen/pass\u00e9 compos\u00e9/tu",
             "links": [],
-            "solution": " tu as senti",
+            "solution": "tu as senti",
             "solutions": [
-                " tu as senti"
+                "tu as senti"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -966,9 +966,9 @@
             "includes-answer-image": false,
             "question": "kommen/pass\u00e9 compos\u00e9/elles",
             "links": [],
-            "solution": " elles sont venues",
+            "solution": "elles sont venues",
             "solutions": [
-                " elles sont venues"
+                "elles sont venues"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -983,9 +983,9 @@
             "includes-answer-image": false,
             "question": "rennen/pr\u00e9sent/il",
             "links": [],
-            "solution": " il court",
+            "solution": "il court",
             "solutions": [
-                " il court"
+                "il court"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1000,9 +1000,9 @@
             "includes-answer-image": false,
             "question": "anbieten/pass\u00e9 compos\u00e9/elles",
             "links": [],
-            "solution": " elles ont offert",
+            "solution": "elles ont offert",
             "solutions": [
-                " elles ont offert"
+                "elles ont offert"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1017,9 +1017,9 @@
             "includes-answer-image": false,
             "question": "sterben/duratif ni\u00e9/ils",
             "links": [],
-            "solution": " ils ne sont pas en train de mourir",
+            "solution": "ils ne sont pas en train de mourir",
             "solutions": [
-                " ils ne sont pas en train de mourir"
+                "ils ne sont pas en train de mourir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1034,9 +1034,9 @@
             "includes-answer-image": false,
             "question": "fliehen/imp\u00e9ratif ni\u00e9/2 plur",
             "links": [],
-            "solution": " ne fuyez pas",
+            "solution": "ne fuyez pas",
             "solutions": [
-                " ne fuyez pas"
+                "ne fuyez pas"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1051,9 +1051,9 @@
             "includes-answer-image": false,
             "question": "haben/pass\u00e9 compos\u00e9/ils",
             "links": [],
-            "solution": " ils ont eu",
+            "solution": "ils ont eu",
             "solutions": [
-                " ils ont eu"
+                "ils ont eu"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1068,9 +1068,9 @@
             "includes-answer-image": false,
             "question": "aufstehen/futur proche/il",
             "links": [],
-            "solution": " il va se lever",
+            "solution": "il va se lever",
             "solutions": [
-                " il va se lever"
+                "il va se lever"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1085,9 +1085,9 @@
             "includes-answer-image": false,
             "question": "l\u00fcgen/pr\u00e9sent/il",
             "links": [],
-            "solution": " il ment",
+            "solution": "il ment",
             "solutions": [
-                " il ment"
+                "il ment"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1102,9 +1102,9 @@
             "includes-answer-image": false,
             "question": "halten/imp\u00e9ratif/1 plur",
             "links": [],
-            "solution": " tenons",
+            "solution": "tenons",
             "solutions": [
-                " tenons"
+                "tenons"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1119,9 +1119,9 @@
             "includes-answer-image": false,
             "question": "halten/pr\u00e9sent/ils",
             "links": [],
-            "solution": " ils tiennent",
+            "solution": "ils tiennent",
             "solutions": [
-                " ils tiennent"
+                "ils tiennent"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1136,9 +1136,9 @@
             "includes-answer-image": false,
             "question": "abtrocknen/pr\u00e9sent/ils",
             "links": [],
-            "solution": " ils essuient",
+            "solution": "ils essuient",
             "solutions": [
-                " ils essuient"
+                "ils essuient"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1153,9 +1153,9 @@
             "includes-answer-image": false,
             "question": "gehen/futur proche/tu",
             "links": [],
-            "solution": " tu vas aller",
+            "solution": "tu vas aller",
             "solutions": [
-                " tu vas aller"
+                "tu vas aller"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1170,9 +1170,9 @@
             "includes-answer-image": false,
             "question": "pfl\u00fccken/pr\u00e9sent/ils",
             "links": [],
-            "solution": " ils cueillent",
+            "solution": "ils cueillent",
             "solutions": [
-                " ils cueillent"
+                "ils cueillent"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1187,9 +1187,9 @@
             "includes-answer-image": false,
             "question": "fliehen/pr\u00e9sent/ils",
             "links": [],
-            "solution": " ils fuient",
+            "solution": "ils fuient",
             "solutions": [
-                " ils fuient"
+                "ils fuient"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1204,9 +1204,9 @@
             "includes-answer-image": false,
             "question": "beginnen/imp\u00e9ratif/1 plur",
             "links": [],
-            "solution": " commen\u00e7ons",
+            "solution": "commen\u00e7ons",
             "solutions": [
-                " commen\u00e7ons"
+                "commen\u00e7ons"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1221,9 +1221,9 @@
             "includes-answer-image": false,
             "question": "haben/futur proche/tu",
             "links": [],
-            "solution": " tu vas avoir",
+            "solution": "tu vas avoir",
             "solutions": [
-                " tu vas avoir"
+                "tu vas avoir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1238,9 +1238,9 @@
             "includes-answer-image": false,
             "question": "kommen/pass\u00e9 compos\u00e9/elle",
             "links": [],
-            "solution": " elle est venue",
+            "solution": "elle est venue",
             "solutions": [
-                " elle est venue"
+                "elle est venue"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1255,9 +1255,9 @@
             "includes-answer-image": false,
             "question": "schlafen/duratif ni\u00e9/elles",
             "links": [],
-            "solution": " elles ne sont pas en train de dormir",
+            "solution": "elles ne sont pas en train de dormir",
             "solutions": [
-                " elles ne sont pas en train de dormir"
+                "elles ne sont pas en train de dormir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1272,9 +1272,9 @@
             "includes-answer-image": false,
             "question": "schlafen/imparfait/nous",
             "links": [],
-            "solution": " nous dormions",
+            "solution": "nous dormions",
             "solutions": [
-                " nous dormions"
+                "nous dormions"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1289,9 +1289,9 @@
             "includes-answer-image": false,
             "question": "sich bedienen/imp\u00e9ratif ni\u00e9/2 plur",
             "links": [],
-            "solution": " ne vous servez pas",
+            "solution": "ne vous servez pas",
             "solutions": [
-                " ne vous servez pas"
+                "ne vous servez pas"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1306,9 +1306,9 @@
             "includes-answer-image": false,
             "question": "sterben/pass\u00e9 compos\u00e9/elles",
             "links": [],
-            "solution": " elles sont mortes",
+            "solution": "elles sont mortes",
             "solutions": [
-                " elles sont mortes"
+                "elles sont mortes"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1323,9 +1323,9 @@
             "includes-answer-image": false,
             "question": "essen/imparfait/il",
             "links": [],
-            "solution": " il mangeait",
+            "solution": "il mangeait",
             "solutions": [
-                " il mangeait"
+                "il mangeait"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1340,9 +1340,9 @@
             "includes-answer-image": false,
             "question": "aufstehen/pr\u00e9sent/elles",
             "links": [],
-            "solution": " elles se l\u00e8vent",
+            "solution": "elles se l\u00e8vent",
             "solutions": [
-                " elles se l\u00e8vent"
+                "elles se l\u00e8vent"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1357,9 +1357,9 @@
             "includes-answer-image": false,
             "question": "reinigen/imparfait/nous",
             "links": [],
-            "solution": " nous nettoyions",
+            "solution": "nous nettoyions",
             "solutions": [
-                " nous nettoyions"
+                "nous nettoyions"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1374,9 +1374,9 @@
             "includes-answer-image": false,
             "question": "beginnen/pr\u00e9sent/nous",
             "links": [],
-            "solution": " nous commen\u00e7ons",
+            "solution": "nous commen\u00e7ons",
             "solutions": [
-                " nous commen\u00e7ons"
+                "nous commen\u00e7ons"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1391,9 +1391,9 @@
             "includes-answer-image": false,
             "question": "pfl\u00fccken/imparfait/vous",
             "links": [],
-            "solution": " vous cueilliez",
+            "solution": "vous cueilliez",
             "solutions": [
-                " vous cueilliez"
+                "vous cueilliez"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1408,9 +1408,9 @@
             "includes-answer-image": false,
             "question": "sein/pass\u00e9 compos\u00e9/tu",
             "links": [],
-            "solution": " tu as \u00e9t\u00e9",
+            "solution": "tu as \u00e9t\u00e9",
             "solutions": [
-                " tu as \u00e9t\u00e9"
+                "tu as \u00e9t\u00e9"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1425,9 +1425,9 @@
             "includes-answer-image": false,
             "question": "fliehen/imparfait/ils",
             "links": [],
-            "solution": " ils fuyaient",
+            "solution": "ils fuyaient",
             "solutions": [
-                " ils fuyaient"
+                "ils fuyaient"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1442,9 +1442,9 @@
             "includes-answer-image": false,
             "question": "kommen/duratif/nous",
             "links": [],
-            "solution": " nous sommes en train de venir",
+            "solution": "nous sommes en train de venir",
             "solutions": [
-                " nous sommes en train de venir"
+                "nous sommes en train de venir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1459,9 +1459,9 @@
             "includes-answer-image": false,
             "question": "weggehen/futur proche ni\u00e9/vous",
             "links": [],
-            "solution": " vous n'allez pas partir",
+            "solution": "vous n'allez pas partir",
             "solutions": [
-                " vous n'allez pas partir"
+                "vous n'allez pas partir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1476,9 +1476,9 @@
             "includes-answer-image": false,
             "question": "sich f\u00fchlen/pass\u00e9 compos\u00e9/il",
             "links": [],
-            "solution": " il s'est senti",
+            "solution": "il s'est senti",
             "solutions": [
-                " il s'est senti"
+                "il s'est senti"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1493,9 +1493,9 @@
             "includes-answer-image": false,
             "question": "reinigen/pr\u00e9sent/ils",
             "links": [],
-            "solution": " ils nettoient",
+            "solution": "ils nettoient",
             "solutions": [
-                " ils nettoient"
+                "ils nettoient"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1510,9 +1510,9 @@
             "includes-answer-image": false,
             "question": "gehen/pass\u00e9 r\u00e9cent ni\u00e9/vous",
             "links": [],
-            "solution": " vous ne venez pas d'aller",
+            "solution": "vous ne venez pas d'aller",
             "solutions": [
-                " vous ne venez pas d'aller"
+                "vous ne venez pas d'aller"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1527,9 +1527,9 @@
             "includes-answer-image": false,
             "question": "sich bedienen/pass\u00e9 compos\u00e9/elles",
             "links": [],
-            "solution": " elles se sont servies",
+            "solution": "elles se sont servies",
             "solutions": [
-                " elles se sont servies"
+                "elles se sont servies"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1544,9 +1544,9 @@
             "includes-answer-image": false,
             "question": "ausgehen/pass\u00e9 compos\u00e9/nous",
             "links": [],
-            "solution": " nous sommes sortis",
+            "solution": "nous sommes sortis",
             "solutions": [
-                " nous sommes sortis"
+                "nous sommes sortis"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1561,9 +1561,9 @@
             "includes-answer-image": false,
             "question": "l\u00fcgen/imp\u00e9ratif/2 sg",
             "links": [],
-            "solution": " mens",
+            "solution": "mens",
             "solutions": [
-                " mens"
+                "mens"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1578,9 +1578,9 @@
             "includes-answer-image": false,
             "question": "beenden/imparfait/nous",
             "links": [],
-            "solution": " nous finissions",
+            "solution": "nous finissions",
             "solutions": [
-                " nous finissions"
+                "nous finissions"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1595,9 +1595,9 @@
             "includes-answer-image": false,
             "question": "lieben/duratif ni\u00e9/vous",
             "links": [],
-            "solution": " vous n'\u00eates pas en train d'aimer",
+            "solution": "vous n'\u00eates pas en train d'aimer",
             "solutions": [
-                " vous n'\u00eates pas en train d'aimer"
+                "vous n'\u00eates pas en train d'aimer"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1612,9 +1612,9 @@
             "includes-answer-image": false,
             "question": "lieben/pass\u00e9 compos\u00e9 ni\u00e9/nous",
             "links": [],
-            "solution": " nous n'avons pas aim\u00e9",
+            "solution": "nous n'avons pas aim\u00e9",
             "solutions": [
-                " nous n'avons pas aim\u00e9"
+                "nous n'avons pas aim\u00e9"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1629,9 +1629,9 @@
             "includes-answer-image": false,
             "question": "gehen/futur proche ni\u00e9/vous",
             "links": [],
-            "solution": " vous n'allez pas aller",
+            "solution": "vous n'allez pas aller",
             "solutions": [
-                " vous n'allez pas aller"
+                "vous n'allez pas aller"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1646,9 +1646,9 @@
             "includes-answer-image": false,
             "question": "heissen/imparfait ni\u00e9/vous",
             "links": [],
-            "solution": " vous ne vous appeliez pas",
+            "solution": "vous ne vous appeliez pas",
             "solutions": [
-                " vous ne vous appeliez pas"
+                "vous ne vous appeliez pas"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1663,9 +1663,9 @@
             "includes-answer-image": false,
             "question": "beenden/pass\u00e9 compos\u00e9 ni\u00e9/tu",
             "links": [],
-            "solution": " tu n'as pas fini",
+            "solution": "tu n'as pas fini",
             "solutions": [
-                " tu n'as pas fini"
+                "tu n'as pas fini"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1680,9 +1680,9 @@
             "includes-answer-image": false,
             "question": "sich am\u00fcsieren/imp\u00e9ratif ni\u00e9/2 sg",
             "links": [],
-            "solution": " ne t'amuse pas",
+            "solution": "ne t'amuse pas",
             "solutions": [
-                " ne t'amuse pas"
+                "ne t'amuse pas"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1697,9 +1697,9 @@
             "includes-answer-image": false,
             "question": "wollen/imparfait/ils",
             "links": [],
-            "solution": " ils vouloaient",
+            "solution": "ils vouloaient",
             "solutions": [
-                " ils vouloaient"
+                "ils vouloaient"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1714,9 +1714,9 @@
             "includes-answer-image": false,
             "question": "schlafen/pass\u00e9 r\u00e9cent ni\u00e9/elles",
             "links": [],
-            "solution": "  elles ne viennent pas de dormir",
+            "solution": " elles ne viennent pas de dormir",
             "solutions": [
-                "  elles ne viennent pas de dormir"
+                " elles ne viennent pas de dormir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1731,9 +1731,9 @@
             "includes-answer-image": false,
             "question": "aufstehen/imparfait/elles",
             "links": [],
-            "solution": " elles se levaient",
+            "solution": "elles se levaient",
             "solutions": [
-                " elles se levaient"
+                "elles se levaient"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1748,9 +1748,9 @@
             "includes-answer-image": false,
             "question": "kaufen/imparfait/vous",
             "links": [],
-            "solution": " vous achetiez",
+            "solution": "vous achetiez",
             "solutions": [
-                " vous achetiez"
+                "vous achetiez"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1765,9 +1765,9 @@
             "includes-answer-image": false,
             "question": "aufstehen/futur proche ni\u00e9/elles",
             "links": [],
-            "solution": " elles ne vont pas se lever",
+            "solution": "elles ne vont pas se lever",
             "solutions": [
-                " elles ne vont pas se lever"
+                "elles ne vont pas se lever"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1782,9 +1782,9 @@
             "includes-answer-image": false,
             "question": "schlafen/imparfait ni\u00e9/elles",
             "links": [],
-            "solution": " elles ne drmaient pas",
+            "solution": "elles ne dormaient pas",
             "solutions": [
-                " elles ne drmaient pas"
+                "elles ne dormaient pas"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1799,9 +1799,9 @@
             "includes-answer-image": false,
             "question": "sein/pass\u00e9 compos\u00e9 ni\u00e9/il",
             "links": [],
-            "solution": " il n'a pas \u00e9t\u00e9",
+            "solution": "il n'a pas \u00e9t\u00e9",
             "solutions": [
-                " il n'a pas \u00e9t\u00e9"
+                "il n'a pas \u00e9t\u00e9"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1816,9 +1816,9 @@
             "includes-answer-image": false,
             "question": "sterben/futur proche ni\u00e9/ils",
             "links": [],
-            "solution": " ils ne vont pas mourir",
+            "solution": "ils ne vont pas mourir",
             "solutions": [
-                " ils ne vont pas mourir"
+                "ils ne vont pas mourir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1833,9 +1833,9 @@
             "includes-answer-image": false,
             "question": "essen/imparfait/ils",
             "links": [],
-            "solution": " ils mangeaient",
+            "solution": "ils mangeaient",
             "solutions": [
-                " ils mangeaient"
+                "ils mangeaient"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1850,9 +1850,9 @@
             "includes-answer-image": false,
             "question": "regnen/pass\u00e9 r\u00e9cent ni\u00e9/il",
             "links": [],
-            "solution": " il ne vient pas de pleuvoir",
+            "solution": "il ne vient pas de pleuvoir",
             "solutions": [
-                " il ne vient pas de pleuvoir"
+                "il ne vient pas de pleuvoir"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1867,9 +1867,9 @@
             "includes-answer-image": false,
             "question": "sich langweilen/pass\u00e9 compos\u00e9 ni\u00e9/elles",
             "links": [],
-            "solution": " elles ne sont pas ennuy\u00e9es",
+            "solution": "elles ne sont pas ennuy\u00e9es",
             "solutions": [
-                " elles ne sont pas ennuy\u00e9es"
+                "elles ne sont pas ennuy\u00e9es"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1884,9 +1884,9 @@
             "includes-answer-image": false,
             "question": "senden/imparfait/vous",
             "links": [],
-            "solution": " vous envoyiez",
+            "solution": "vous envoyiez",
             "solutions": [
-                " vous envoyiez"
+                "vous envoyiez"
             ],
             "tolerance": 2,
             "difficulty": 1,
@@ -1901,9 +1901,9 @@
             "includes-answer-image": false,
             "question": "kennen/imparfait/ils",
             "links": [],
-            "solution": " ils connaissaient",
+            "solution": "ils connaissaient",
             "solutions": [
-                " ils connaissaient"
+                "ils connaissaient"
             ],
             "tolerance": 2,
             "difficulty": 1,
